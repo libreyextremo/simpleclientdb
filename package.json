@@ -1,0 +1,23 @@
+{
+  "name": "simpleclientdb",
+  "version": "1.0.0",
+  "description": "This project is a simple database of clients. I use mongodb, nodejs and mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libreyextremo/simpleclientdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libreyextremo/simpleclientdb/issues"
+  },
+  "homepage": "https://github.com/libreyextremo/simpleclientdb#readme",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
+}
