@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connect to mongodb
-mongoose.connect('mongodb://localhost/testaroo');
+mongoose.connect('mongodb://localhost/simpleclientdb');
 
 // launch when connection is opened
 mongoose.connection.once('open', function(){
