@@ -4,8 +4,10 @@ const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/simpleclientdb');
 
 // launch when connection is opened
+console.log('Launch connection.js');
 mongoose.connection.once('open', function(){
-  console.log('1.- Connection has been made succesfully.')
+  console.log('MongoDB connection has been made succesfully.')
 }).on('error', function(error){
-  console.log('1.- Connection error:', error);
+  console.log('MongoDB connection error:', error);
 });
+console.log('End connection.js');
