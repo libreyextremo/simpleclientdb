@@ -18,7 +18,19 @@ const ClientModelSchema = new Schema({
   company_email: String,
   company_year_of_creation: Number,
   company_isActive: Boolean,
-  company_picture: String
+  company_picture: String,
+  company_member: [{
+    member_position: { type: String },
+    member_name: { type: String },
+    member_info: { type: String },
+    member_phone: { type: String }
+  }],
+  company_bill: [{
+    bill_id: { type: Number },
+    bill_date: { type: Date, default: Date.now },
+    bill_concept: { type: String },
+    bill_total: { type: Number }
+  }]
 });
 
 // set relation between ClientModelSchema and clientmodel
