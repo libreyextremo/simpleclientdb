@@ -5,10 +5,14 @@ const ClientModel = require('../models/client_model');
 //describe client model tests
 describe('Client collection tests', function(){
 
+  var clientRecord1;
+  var clientRecord2;
+  var clientRecord;
+
   // actions executes before each test
   beforeEach(function(done){
 
-    var clientRecord1 = new ClientModel({
+    clientRecord1 = new ClientModel({
       company_nif: 'A05223345',
       company_name: 'Naturaesencia Cosmetics',
       company_type: 'Professional services',
@@ -61,7 +65,7 @@ describe('Client collection tests', function(){
       ]
     });
 
-    var clientRecord2 = new ClientModel({
+    clientRecord2 = new ClientModel({
       company_nif: 'T08000233',
       company_name: 'Swan Writer',
       company_type: 'Professional services',
@@ -114,7 +118,7 @@ describe('Client collection tests', function(){
   // saving a record in client collection
   it('Saving a record in client collection', function(done){
 
-    var clientRecord = new ClientModel({
+    clientRecord = new ClientModel({
       company_nif: 'A04113629',
       company_name: 'Garvin Pottery S.L.',
       company_type: 'Professional services',
@@ -179,6 +183,27 @@ describe('Client collection tests', function(){
 
     ClientModel.findOne({ company_name: 'Naturaesencia Cosmetics' }).then(function(result){
       assert(result.company_name === 'Naturaesencia Cosmetics');
+      done();
+    });
+
+  });
+
+  // finding a record in client collection
+  it('Finding a record using a var from client collection', function(done){
+
+    ClientModel.findOne({ company_name: clientRecord2.company_name }).then(function(result){
+      assert(result.company_name === clientRecord2.company_name);
+      done();
+    });
+
+  });
+
+
+  // finding a record by IDin client collection
+  it('Finding a record by ID from client collection', function(done){
+
+    ClientModel.findOne({ _id: clientRecord2._id }).then(function(result){
+      assert(result._id.toString() === clientRecord2._id.toString() );
       done();
     });
 
