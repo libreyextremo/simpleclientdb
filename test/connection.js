@@ -18,3 +18,18 @@ before(function(done){
   });
 
 });
+
+// These actions will be done before each test
+beforeEach(function(done){
+  // drop collections that will be inserted
+  //console.log('before test actions: drop simpleclientdb collection');
+  mongoose.connection.collections.clientmodels.drop(function(){
+  done();
+  });
+});
+
+// These actions will be done after each test
+afterEach(function(done){
+  //console.log('after test actions: nothing');
+  done();
+});
