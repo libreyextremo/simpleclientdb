@@ -1,5 +1,8 @@
 const mongoose = require('mongoose');
 
+// use ES6 promises library instead of mongoose promise library
+mongoose.Promise = global.Promise;
+
 // Connect to mongodb
 mongoose.connect('mongodb://localhost/simpleclientdb');
 
