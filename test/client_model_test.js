@@ -379,17 +379,15 @@ describe('Client collection tests', function(){
   });
 
   // updating a record by var in client collection
-  it('Updating a record by var from client collection', function(done){
-    var niferror = 'B01200895';
+  it('Increasing balance value from client collection', function(done){
 
-    clientRecord4.update({ _id: clientRecord4._id },
-        { company_nif: niferror }).then (function(){
-        ClientModel.findOne({_id: clientRecord4._id}).then(function(result){
-            assert(result.company_nif === niferror);
-            done();
-        });
+    ClientModel.findOneAndUpdate({company_nif: 'T08000233'},
+    { $inc: {company_balance: 90}}).then(function(){
+      ClientModel.findOne({ company_nif: 'T08000233' }).then(function(record){
+          assert(record.company_balance === 45090);
+          done();
+      });
     });
-
   });
 
 });
