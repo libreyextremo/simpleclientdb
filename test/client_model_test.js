@@ -8,6 +8,7 @@ describe('Client collection tests', function(){
   var clientRecord1;
   var clientRecord2;
   var clientRecord3;
+  var clientRecord4;
   var clientRecord;
 
   // actions executes before each test
@@ -16,7 +17,7 @@ describe('Client collection tests', function(){
     clientRecord1 = new ClientModel({
       company_nif: 'A05223345',
       company_name: 'Naturaesencia Cosmetics',
-      company_type: 'Professional services',
+      company_type: 'Health and Social Services',
       company_num_employees: 3,
       company_balance: 4902,
       company_cnae: 4010,
@@ -69,7 +70,7 @@ describe('Client collection tests', function(){
     clientRecord2 = new ClientModel({
       company_nif: 'T08000233',
       company_name: 'Swan Writer',
-      company_type: 'Professional services',
+      company_type: 'Art and Entertainment',
       company_num_employees: 1,
       company_balance: 45000,
       company_cnae: 3009,
@@ -104,9 +105,9 @@ describe('Client collection tests', function(){
     clientRecord3 = new ClientModel({
       company_nif: 'R23699364',
       company_name: 'Aquarium S.L.',
-      company_type: 'Professional services',
+      company_type: 'Fishing',
       company_num_employees: 6,
-      company_balance: 45000,
+      company_balance: 23000,
       company_cnae: 3014,
       company_address: 'S/N Principe Avenue',
       company_phone: '+34925892300',
@@ -142,13 +143,59 @@ describe('Client collection tests', function(){
       ]
     });
 
+    clientRecord4 = new ClientModel({
+      company_nif: 'B01200895',
+      company_name: 'The Brick Brothers',
+      company_type: 'Manufacturing industry',
+      company_num_employees: 82,
+      company_balance: 149005,
+      company_cnae: 6004,
+      company_address: '23 km. Cervera Road',
+      company_phone: '+34925812323',
+      company_city: 'Talavera',
+      company_state: 'Toledo',
+      company_postal_code: 45600,
+      company_country: 'Spain',
+      company_email: 'manager@thebrickbrothers.com',
+      company_year_of_creation: 1996,
+      company_isActive: true,
+      company_picture: '',
+      company_member: [
+        {
+          member_position: 'President',
+          member_name: 'Gordon McCollins',
+          member_info: '',
+          member_phone: ''
+        },
+        {
+          member_position: 'VicePresident',
+          member_name: 'Emile McCollins',
+          member_info: '',
+          member_phone: ''
+        },
+        {
+          member_position: 'Finantial Director',
+          member_name: 'Guile McCollins',
+          member_info: '',
+          member_phone: ''
+        }
+      ],
+      company_bill: [
+        {
+          bill_id: 2017040200001,
+          bill_date: '04/20/2017',
+          bill_concept: 'Logotype design',
+          bill_total: 200
+        }
+      ]
+    });
+
     clientRecord1.save().then(function() {
-      assert(clientRecord1.isNew === false);
       clientRecord2.save().then(function() {
-        assert(clientRecord2.isNew === false);
         clientRecord3.save().then(function() {
-          assert(clientRecord3.isNew === false);
-          done();
+          clientRecord4.save().then(function() {
+            done();
+          });
         });
       });
     });
@@ -166,7 +213,7 @@ describe('Client collection tests', function(){
     clientRecord = new ClientModel({
       company_nif: 'A04113629',
       company_name: 'Garvin Pottery S.L.',
-      company_type: 'Professional services',
+      company_type: 'Manufacturing industry',
       company_num_employees: 21,
       company_balance: 50210,
       company_cnae: 4008,
@@ -299,6 +346,48 @@ describe('Client collection tests', function(){
         assert(result === null)
         done();
       });
+    });
+
+  });
+
+  // updating a record in client collection
+  it('Updating a record from client collection', function(done){
+    var newBalance = 239005;
+
+    ClientModel.findOneAndUpdate({ company_name: clientRecord4.company_name },
+        { company_balance: newBalance }).then (function(){
+        ClientModel.findOne({_id: clientRecord4._id}).then(function(result){
+            assert(result.company_balance === newBalance);
+            done();
+        });
+    });
+
+  });
+
+  // updating a group of records in client collection
+  it('Updating a group of records from client collection', function(done){
+    var niferror = 'TEMPORARY UNASSIGNED';
+
+    ClientModel.update({ _id: clientRecord4._id },
+        { company_nif: niferror }).then (function(){
+        ClientModel.findOne({_id: clientRecord4._id}).then(function(result){
+            assert(result.company_nif === niferror);
+            done();
+        });
+    });
+
+  });
+
+  // updating a record by var in client collection
+  it('Updating a record by var from client collection', function(done){
+    var niferror = 'B01200895';
+
+    clientRecord4.update({ _id: clientRecord4._id },
+        { company_nif: niferror }).then (function(){
+        ClientModel.findOne({_id: clientRecord4._id}).then(function(result){
+            assert(result.company_nif === niferror);
+            done();
+        });
     });
 
   });
