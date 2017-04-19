@@ -9,6 +9,7 @@ describe('Client collection tests', function(){
   var clientRecord2;
   var clientRecord3;
   var clientRecord4;
+  var clientRecord5;
   var clientRecord;
 
   // actions executes before each test
@@ -190,11 +191,54 @@ describe('Client collection tests', function(){
       ]
     });
 
+    clientRecord5 = new ClientModel({
+      company_nif: 'P03728902',
+      company_name: 'Factory 33',
+      company_type: 'Manufacturing industry',
+      company_num_employees: 5,
+      company_balance: 398,
+      company_cnae: 6002,
+      company_address: '56 Moscu Street',
+      company_phone: '+34925814446',
+      company_city: 'Talavera',
+      company_state: 'Toledo',
+      company_postal_code: 45600,
+      company_country: 'Spain',
+      company_email: 'adrian@factory33.com',
+      company_year_of_creation: 2003,
+      company_isActive: true,
+      company_picture: '',
+      company_member: [
+        {
+          member_position: 'President',
+          member_name: 'Adrian Collins',
+          member_info: '',
+          member_phone: ''
+        },
+        {
+          member_position: 'VicePresident',
+          member_name: 'Susan Smith',
+          member_info: '',
+          member_phone: ''
+        }
+      ],
+      company_bill: [
+        {
+          bill_id: 2017040800001,
+          bill_date: '04/08/2017',
+          bill_concept: 'Stationery design',
+          bill_total: 130
+        }
+      ]
+    });
+
     clientRecord1.save().then(function() {
       clientRecord2.save().then(function() {
         clientRecord3.save().then(function() {
           clientRecord4.save().then(function() {
-            done();
+            clientRecord5.save().then(function() {
+              done();
+            });
           });
         });
       });
@@ -265,6 +309,8 @@ describe('Client collection tests', function(){
 
     clientRecord.save().then(function() {
       assert(clientRecord.isNew === false);
+      assert(clientRecord.company_member.length === 3);
+      assert(clientRecord.company_bill.length === 2);
       done();
     });
 
@@ -389,5 +435,25 @@ describe('Client collection tests', function(){
       });
     });
   });
+
+  // adding a member to a client collection
+  it('Adding a member to a client collection', function(done){
+
+    ClientModel.findOne({ company_nif: 'P03728902' }).then(function(record){
+      record.company_bill.push({
+        bill_id: 2017041900002,
+        bill_date: '04/19/2017',
+        bill_concept: 'Logotype design',
+        bill_total: 230
+      });
+      record.save().then(function(){
+        ClientModel.findOne({ company_nif: 'P03728902' }).then(function(result){
+          assert(result.company_bill.length === 2);
+          done();
+        });
+      });
+    });
+  });
+
 
 });
