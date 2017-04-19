@@ -436,8 +436,8 @@ describe('Client collection tests', function(){
     });
   });
 
-  // adding a member to a client collection
-  it('Adding a member to a client collection', function(done){
+  // adding a bill to a client collection
+  it('Adding a bill to a client collection', function(done){
 
     ClientModel.findOne({ company_nif: 'P03728902' }).then(function(record){
       record.company_bill.push({
