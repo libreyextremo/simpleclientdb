@@ -33,6 +33,28 @@ const ClientModelSchema = new Schema({
   company_year_of_creation: Number,
   company_isActive: Boolean,
   company_picture: String,
+  company_member: [MemberSchema],
+  company_bill: [BillSchema]
+});
+
+/*
+const ClientModelSchema = new Schema({
+  company_nif: String,
+  company_name: String,
+  company_type: String,
+  company_num_employees: Number,
+  company_balance: Number,
+  company_cnae: Number,
+  company_address: String,
+  company_phone: String,
+  company_city: String,
+  company_state: String,
+  company_postal_code: Number,
+  company_country: String,
+  company_email: String,
+  company_year_of_creation: Number,
+  company_isActive: Boolean,
+  company_picture: String,
   company_member: [{
     member_position: { type: String },
     member_name: { type: String },
@@ -46,6 +68,7 @@ const ClientModelSchema = new Schema({
     bill_total: { type: Number }
   }]
 });
+*/
 
 // set relation between ClientModelSchema and clientmodel
 const ClientModel = mongoose.model('clientmodel', ClientModelSchema);
