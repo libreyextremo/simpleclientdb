@@ -2,6 +2,20 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 // Create Schema and model
+const MemberSchema = new Schema({
+  member_position: { type: String },
+  member_name: { type: String },
+  member_info: { type: String },
+  member_phone: { type: String }
+});
+
+const BillSchema = new Schema({
+  bill_id: { type: Number },
+  bill_date: { type: Date, default: Date.now },
+  bill_concept: { type: String },
+  bill_total: { type: Number }
+});
+
 const ClientModelSchema = new Schema({
   company_nif: String,
   company_name: String,
