@@ -1,0 +1,243 @@
+[
+  {
+    "_id": "58fb80d8ba5e6561de6cadd0",
+    "company_nif": "J362758127",
+    "company_name": "SLOFAST",
+    "company_type": "Information and communication",
+    "company_num_employees": 1528,
+    "company_balance": "$531,853.17",
+    "company_cnae": 4501,
+    "company_address": "515 Beekman Place, 7290",
+    "company_phone": "+36 (823) 405-3092",
+    "company_city": "Shaft",
+    "company_state": "Tennessee",
+    "company_postal_code": 4398,
+    "company_country": "Belgium",
+    "company_email": "mitziaustin@slofast.com",
+    "company_year_of_creation": 1964,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Witt Camacho",
+        "member_info": "",
+        "member_phone": "+27 (803) 562-3386"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Conway Combs",
+        "member_info": "",
+        "member_phone": "+75 (999) 544-2799"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Shannon Whitaker",
+        "member_info": "",
+        "member_phone": "+58 (913) 503-3316"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Herminia Nichols",
+        "member_info": "",
+        "member_phone": "+2 (984) 555-3231"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 51575633,
+        "bill_date": "2016-06-26T01:55:32 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$25,047.62"
+      },
+      {
+        "bill_id": 40252801,
+        "bill_date": "2014-12-12T04:07:43 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$54,593.08"
+      },
+      {
+        "bill_id": 31517435,
+        "bill_date": "2016-01-22T04:51:10 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$3,293.67"
+      }
+    ]
+  },
+  {
+    "_id": "58fb80d872e6fd441eb33bea",
+    "company_nif": "N129506546",
+    "company_name": "DIGIGEN",
+    "company_type": "Water provider",
+    "company_num_employees": 6750,
+    "company_balance": "$997,057.11",
+    "company_cnae": 9817,
+    "company_address": "367 Bowne Street, 6247",
+    "company_phone": "+15 (922) 434-2128",
+    "company_city": "Harmon",
+    "company_state": "Georgia",
+    "company_postal_code": 2711,
+    "company_country": "Angola",
+    "company_email": "herminianichols@digigen.com",
+    "company_year_of_creation": 2015,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Regina Kelley",
+        "member_info": "",
+        "member_phone": "+33 (870) 445-2299"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Melba Webster",
+        "member_info": "",
+        "member_phone": "+28 (969) 566-3174"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Cameron Cummings",
+        "member_info": "",
+        "member_phone": "+29 (843) 412-3004"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Booth Pennington",
+        "member_info": "",
+        "member_phone": "+23 (862) 403-3235"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 92483136,
+        "bill_date": "2014-03-20T04:35:38 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$34,822.44"
+      },
+      {
+        "bill_id": 22858736,
+        "bill_date": "2015-03-12T11:31:11 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$84,633.96"
+      },
+      {
+        "bill_id": 20393977,
+        "bill_date": "2014-06-09T02:59:27 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$62,871.93"
+      },
+      {
+        "bill_id": 62860362,
+        "bill_date": "2014-08-11T07:12:04 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$24,766.15"
+      }
+    ]
+  },
+  {
+    "_id": "58fb80d863ba02ddded0bd56",
+    "company_nif": "R539041023",
+    "company_name": "ONTAGENE",
+    "company_type": "Energy provider",
+    "company_num_employees": 4514,
+    "company_balance": "$187,812.96",
+    "company_cnae": 9112,
+    "company_address": "126 Hutchinson Court, 8289",
+    "company_phone": "+29 (959) 428-3750",
+    "company_city": "Nelson",
+    "company_state": "Alabama",
+    "company_postal_code": 6162,
+    "company_country": "Uganda",
+    "company_email": "boothpennington@ontagene.com",
+    "company_year_of_creation": 1951,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Ferrell Montoya",
+        "member_info": "",
+        "member_phone": "+58 (954) 561-3921"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Aurelia Ratliff",
+        "member_info": "",
+        "member_phone": "+38 (819) 497-3474"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Holt Diaz",
+        "member_info": "",
+        "member_phone": "+8 (814) 489-3805"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Hogan Caldwell",
+        "member_info": "",
+        "member_phone": "+60 (805) 478-2477"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 68523164,
+        "bill_date": "2014-03-13T04:33:11 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$25,227.18"
+      },
+      {
+        "bill_id": 20874835,
+        "bill_date": "2014-12-18T01:18:39 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$4,638.22"
+      }
+    ]
+  },
+  {
+    "_id": "58fb80d8f03386d1f18a5b59",
+    "company_nif": "A990174999",
+    "company_name": "STELAECOR",
+    "company_type": "Art and Entertainment",
+    "company_num_employees": 2200,
+    "company_balance": "$394,191.58",
+    "company_cnae": 4260,
+    "company_address": "382 Rockaway Parkway, 6306",
+    "company_phone": "+33 (933) 581-3202",
+    "company_city": "Steinhatchee",
+    "company_state": "American Samoa",
+    "company_postal_code": 8476,
+    "company_country": "Afghanistan",
+    "company_email": "hogancaldwell@stelaecor.com",
+    "company_year_of_creation": 2016,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Vaughan Martinez",
+        "member_info": "",
+        "member_phone": "+50 (956) 424-2171"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Elisabeth Mueller",
+        "member_info": "",
+        "member_phone": "+58 (867) 561-2214"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Murray Huff",
+        "member_info": "",
+        "member_phone": "+9 (826) 518-3046"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Mercedes Price",
+        "member_info": "",
+        "member_phone": "+19 (851) 580-2246"
+      }
+    ],
+    "company_bill": []
+  }
+]

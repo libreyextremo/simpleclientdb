@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/libreyextremo/simpleclientdb.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["mongo", "nodejs", "client", "db"],
+  "author": "JMSobrinos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/libreyextremo/simpleclientdb/issues"
