@@ -1,243 +1,4577 @@
 [
   {
-    "_id": "58fb80d8ba5e6561de6cadd0",
-    "company_nif": "J362758127",
-    "company_name": "SLOFAST",
-    "company_type": "Information and communication",
-    "company_num_employees": 1528,
-    "company_balance": "$531,853.17",
-    "company_cnae": 4501,
-    "company_address": "515 Beekman Place, 7290",
-    "company_phone": "+36 (823) 405-3092",
-    "company_city": "Shaft",
-    "company_state": "Tennessee",
-    "company_postal_code": 4398,
-    "company_country": "Belgium",
-    "company_email": "mitziaustin@slofast.com",
-    "company_year_of_creation": 1964,
-    "company_isActive": false,
+    "_id": "58fb874da9525b11af5bc5ee",
+    "company_nif": "U991831895",
+    "company_name": "FROSNEX",
+    "company_type": "Public Administration and Defense",
+    "company_num_employees": 5141,
+    "company_balance": "$128,061.44",
+    "company_cnae": 5985,
+    "company_address": "109 Boardwalk , 6566",
+    "company_phone": "+73 (887) 562-2301",
+    "company_city": "Greer",
+    "company_state": "Mississippi",
+    "company_postal_code": 2035,
+    "company_country": "Nicaragua",
+    "company_email": "prestonatkins@frosnex.com",
+    "company_year_of_creation": 1999,
+    "company_isActive": true,
     "company_picture": "http://placehold.it/32x32",
     "company_member": [
       {
         "member_position": "President",
-        "member_name": "Witt Camacho",
+        "member_name": "Deirdre Aguilar",
         "member_info": "",
-        "member_phone": "+27 (803) 562-3386"
+        "member_phone": "+15 (934) 564-2859"
       },
       {
         "member_position": "VicePresident",
-        "member_name": "Conway Combs",
+        "member_name": "Baker Pratt",
         "member_info": "",
-        "member_phone": "+75 (999) 544-2799"
+        "member_phone": "+83 (859) 414-3344"
       },
       {
         "member_position": "Finantial Director",
-        "member_name": "Shannon Whitaker",
+        "member_name": "Renee Fernandez",
         "member_info": "",
-        "member_phone": "+58 (913) 503-3316"
+        "member_phone": "+9 (927) 533-3710"
       },
       {
         "member_position": "Marketing Director",
-        "member_name": "Herminia Nichols",
+        "member_name": "Tia Spencer",
         "member_info": "",
-        "member_phone": "+2 (984) 555-3231"
+        "member_phone": "+68 (823) 526-3136"
       }
     ],
     "company_bill": [
       {
-        "bill_id": 51575633,
-        "bill_date": "2016-06-26T01:55:32 -02:00",
-        "bill_concept": "Products",
-        "bill_total": "$25,047.62"
-      },
-      {
-        "bill_id": 40252801,
-        "bill_date": "2014-12-12T04:07:43 -01:00",
-        "bill_concept": "Products",
-        "bill_total": "$54,593.08"
-      },
-      {
-        "bill_id": 31517435,
-        "bill_date": "2016-01-22T04:51:10 -01:00",
+        "bill_id": 28155999,
+        "bill_date": "2015-05-01T09:01:21 -02:00",
         "bill_concept": "Consultancy",
-        "bill_total": "$3,293.67"
+        "bill_total": "$22,690.91"
+      },
+      {
+        "bill_id": 32301456,
+        "bill_date": "2017-01-01T06:30:26 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$27,963.72"
       }
     ]
   },
   {
-    "_id": "58fb80d872e6fd441eb33bea",
-    "company_nif": "N129506546",
-    "company_name": "DIGIGEN",
-    "company_type": "Water provider",
-    "company_num_employees": 6750,
-    "company_balance": "$997,057.11",
-    "company_cnae": 9817,
-    "company_address": "367 Bowne Street, 6247",
-    "company_phone": "+15 (922) 434-2128",
-    "company_city": "Harmon",
-    "company_state": "Georgia",
-    "company_postal_code": 2711,
-    "company_country": "Angola",
-    "company_email": "herminianichols@digigen.com",
-    "company_year_of_creation": 2015,
-    "company_isActive": false,
+    "_id": "58fb874d304aa9433fd0c6e3",
+    "company_nif": "K422879122",
+    "company_name": "GOLISTIC",
+    "company_type": "Finantial activities",
+    "company_num_employees": 7221,
+    "company_balance": "$33,197.47",
+    "company_cnae": 9792,
+    "company_address": "134 Willmohr Street, 3880",
+    "company_phone": "+7 (836) 493-2408",
+    "company_city": "Caroline",
+    "company_state": "Missouri",
+    "company_postal_code": 8583,
+    "company_country": "Kiribati",
+    "company_email": "tiaspencer@golistic.com",
+    "company_year_of_creation": 1937,
+    "company_isActive": true,
     "company_picture": "http://placehold.it/32x32",
     "company_member": [
       {
         "member_position": "President",
-        "member_name": "Regina Kelley",
+        "member_name": "Kristin Rodriguez",
         "member_info": "",
-        "member_phone": "+33 (870) 445-2299"
+        "member_phone": "+19 (859) 554-2836"
       },
       {
         "member_position": "VicePresident",
-        "member_name": "Melba Webster",
+        "member_name": "Mcguire Herrera",
         "member_info": "",
-        "member_phone": "+28 (969) 566-3174"
+        "member_phone": "+11 (939) 410-2435"
       },
       {
         "member_position": "Finantial Director",
-        "member_name": "Cameron Cummings",
+        "member_name": "Harris Levine",
         "member_info": "",
-        "member_phone": "+29 (843) 412-3004"
+        "member_phone": "+17 (954) 497-2855"
       },
       {
         "member_position": "Marketing Director",
-        "member_name": "Booth Pennington",
+        "member_name": "Katrina Hart",
         "member_info": "",
-        "member_phone": "+23 (862) 403-3235"
+        "member_phone": "+63 (910) 568-2917"
       }
     ],
     "company_bill": [
       {
-        "bill_id": 92483136,
-        "bill_date": "2014-03-20T04:35:38 -01:00",
-        "bill_concept": "Products",
-        "bill_total": "$34,822.44"
-      },
-      {
-        "bill_id": 22858736,
-        "bill_date": "2015-03-12T11:31:11 -01:00",
-        "bill_concept": "Products",
-        "bill_total": "$84,633.96"
-      },
-      {
-        "bill_id": 20393977,
-        "bill_date": "2014-06-09T02:59:27 -02:00",
+        "bill_id": 13864611,
+        "bill_date": "2014-11-28T04:34:58 -01:00",
         "bill_concept": "Consultancy",
-        "bill_total": "$62,871.93"
+        "bill_total": "$25,980.92"
       },
       {
-        "bill_id": 62860362,
-        "bill_date": "2014-08-11T07:12:04 -02:00",
-        "bill_concept": "Services",
-        "bill_total": "$24,766.15"
+        "bill_id": 17739198,
+        "bill_date": "2016-05-19T11:47:14 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$35,722.49"
+      },
+      {
+        "bill_id": 38386190,
+        "bill_date": "2016-10-19T07:11:03 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$58,447.14"
+      },
+      {
+        "bill_id": 4778358,
+        "bill_date": "2016-05-16T10:17:19 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$856.69"
       }
     ]
   },
   {
-    "_id": "58fb80d863ba02ddded0bd56",
-    "company_nif": "R539041023",
-    "company_name": "ONTAGENE",
-    "company_type": "Energy provider",
-    "company_num_employees": 4514,
-    "company_balance": "$187,812.96",
-    "company_cnae": 9112,
-    "company_address": "126 Hutchinson Court, 8289",
-    "company_phone": "+29 (959) 428-3750",
-    "company_city": "Nelson",
-    "company_state": "Alabama",
-    "company_postal_code": 6162,
-    "company_country": "Uganda",
-    "company_email": "boothpennington@ontagene.com",
-    "company_year_of_creation": 1951,
-    "company_isActive": false,
+    "_id": "58fb874d03744e646e287ec4",
+    "company_nif": "I61375547",
+    "company_name": "PYRAMIS",
+    "company_type": "Extractive industry",
+    "company_num_employees": 7625,
+    "company_balance": "$213,551.09",
+    "company_cnae": 2394,
+    "company_address": "582 Maujer Street, 9606",
+    "company_phone": "+32 (834) 488-2482",
+    "company_city": "Cornucopia",
+    "company_state": "Kentucky",
+    "company_postal_code": 2954,
+    "company_country": "Denmark",
+    "company_email": "katrinahart@pyramis.com",
+    "company_year_of_creation": 1968,
+    "company_isActive": true,
     "company_picture": "http://placehold.it/32x32",
     "company_member": [
       {
         "member_position": "President",
-        "member_name": "Ferrell Montoya",
+        "member_name": "Brennan Skinner",
         "member_info": "",
-        "member_phone": "+58 (954) 561-3921"
+        "member_phone": "+36 (878) 517-3643"
       },
       {
         "member_position": "VicePresident",
-        "member_name": "Aurelia Ratliff",
+        "member_name": "Ronda Salazar",
         "member_info": "",
-        "member_phone": "+38 (819) 497-3474"
+        "member_phone": "+32 (926) 543-2884"
       },
       {
         "member_position": "Finantial Director",
-        "member_name": "Holt Diaz",
+        "member_name": "Weeks Vega",
         "member_info": "",
-        "member_phone": "+8 (814) 489-3805"
+        "member_phone": "+19 (841) 539-2200"
       },
       {
         "member_position": "Marketing Director",
-        "member_name": "Hogan Caldwell",
+        "member_name": "Ferrell Barlow",
         "member_info": "",
-        "member_phone": "+60 (805) 478-2477"
+        "member_phone": "+80 (844) 448-2721"
       }
     ],
-    "company_bill": [
-      {
-        "bill_id": 68523164,
-        "bill_date": "2014-03-13T04:33:11 -01:00",
-        "bill_concept": "Services",
-        "bill_total": "$25,227.18"
-      },
-      {
-        "bill_id": 20874835,
-        "bill_date": "2014-12-18T01:18:39 -01:00",
-        "bill_concept": "Products",
-        "bill_total": "$4,638.22"
-      }
-    ]
+    "company_bill": []
   },
   {
-    "_id": "58fb80d8f03386d1f18a5b59",
-    "company_nif": "A990174999",
+    "_id": "58fb874d64f88b6f6490d000",
+    "company_nif": "V22262959",
     "company_name": "STELAECOR",
-    "company_type": "Art and Entertainment",
-    "company_num_employees": 2200,
-    "company_balance": "$394,191.58",
-    "company_cnae": 4260,
-    "company_address": "382 Rockaway Parkway, 6306",
-    "company_phone": "+33 (933) 581-3202",
-    "company_city": "Steinhatchee",
-    "company_state": "American Samoa",
-    "company_postal_code": 8476,
-    "company_country": "Afghanistan",
-    "company_email": "hogancaldwell@stelaecor.com",
+    "company_type": "Energy provider",
+    "company_num_employees": 1920,
+    "company_balance": "$37,525.92",
+    "company_cnae": 3440,
+    "company_address": "522 Saratoga Avenue, 5353",
+    "company_phone": "+32 (965) 469-2036",
+    "company_city": "Carbonville",
+    "company_state": "Virginia",
+    "company_postal_code": 9689,
+    "company_country": "United States",
+    "company_email": "ferrellbarlow@stelaecor.com",
+    "company_year_of_creation": 1977,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Celeste Navarro",
+        "member_info": "",
+        "member_phone": "+14 (825) 437-2144"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Woods Scott",
+        "member_info": "",
+        "member_phone": "+6 (965) 495-3528"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Debra Velazquez",
+        "member_info": "",
+        "member_phone": "+82 (967) 505-3942"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Knight Alexander",
+        "member_info": "",
+        "member_phone": "+78 (844) 448-3215"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 53755579,
+        "bill_date": "2016-09-14T03:41:22 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$12,560.07"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d497dc7a4e6eafe5b",
+    "company_nif": "J64562930",
+    "company_name": "GREEKER",
+    "company_type": "Energy provider",
+    "company_num_employees": 3764,
+    "company_balance": "$86,223.58",
+    "company_cnae": 8242,
+    "company_address": "145 Jackson Street, 5824",
+    "company_phone": "+22 (900) 599-2121",
+    "company_city": "Cutter",
+    "company_state": "North Dakota",
+    "company_postal_code": 2149,
+    "company_country": "Dominican Republic",
+    "company_email": "knightalexander@greeker.com",
+    "company_year_of_creation": 1931,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Jensen Burke",
+        "member_info": "",
+        "member_phone": "+9 (874) 538-3240"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Leanna Lambert",
+        "member_info": "",
+        "member_phone": "+88 (858) 413-3320"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Ebony Ellis",
+        "member_info": "",
+        "member_phone": "+7 (850) 578-2197"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Abby Rivers",
+        "member_info": "",
+        "member_phone": "+1 (958) 403-3121"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 84699032,
+        "bill_date": "2015-06-08T04:17:32 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$53,758.82"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d4faa473c343f22f1",
+    "company_nif": "H52933927",
+    "company_name": "VIOCULAR",
+    "company_type": "Administrative services",
+    "company_num_employees": 7316,
+    "company_balance": "$945,154.64",
+    "company_cnae": 2622,
+    "company_address": "996 Thames Street, 706",
+    "company_phone": "+49 (875) 434-3164",
+    "company_city": "Bison",
+    "company_state": "Northern Mariana Islands",
+    "company_postal_code": 5994,
+    "company_country": "Botswana",
+    "company_email": "abbyrivers@viocular.com",
+    "company_year_of_creation": 1965,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Eva Santiago",
+        "member_info": "",
+        "member_phone": "+10 (995) 511-3060"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Jessica Justice",
+        "member_info": "",
+        "member_phone": "+62 (933) 418-3291"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Drake Stein",
+        "member_info": "",
+        "member_phone": "+2 (803) 499-3824"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Terry Fields",
+        "member_info": "",
+        "member_phone": "+44 (922) 597-2005"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d02e0b04ff7b9c044",
+    "company_nif": "Y889906116",
+    "company_name": "EXOBLUE",
+    "company_type": "Finantial activities",
+    "company_num_employees": 3950,
+    "company_balance": "$401,727.87",
+    "company_cnae": 5435,
+    "company_address": "800 Lafayette Avenue, 4946",
+    "company_phone": "+23 (919) 480-3536",
+    "company_city": "Faxon",
+    "company_state": "Nebraska",
+    "company_postal_code": 9946,
+    "company_country": "Swaziland",
+    "company_email": "terryfields@exoblue.com",
+    "company_year_of_creation": 1934,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Elba Park",
+        "member_info": "",
+        "member_phone": "+21 (916) 507-3341"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Mable Wolf",
+        "member_info": "",
+        "member_phone": "+10 (804) 494-2248"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Greene Schmidt",
+        "member_info": "",
+        "member_phone": "+65 (812) 405-2197"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Fischer Sanford",
+        "member_info": "",
+        "member_phone": "+78 (850) 408-3653"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 91894095,
+        "bill_date": "2014-04-20T05:29:23 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$61,862.41"
+      },
+      {
+        "bill_id": 43458198,
+        "bill_date": "2015-02-14T09:21:18 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$76,908.43"
+      },
+      {
+        "bill_id": 2669529,
+        "bill_date": "2015-09-05T05:18:03 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$8,935.73"
+      },
+      {
+        "bill_id": 2120740,
+        "bill_date": "2015-07-11T03:27:16 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$71,150.70"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d0dd0317f64b38865",
+    "company_nif": "O735536150",
+    "company_name": "HINWAY",
+    "company_type": "Administrative services",
+    "company_num_employees": 2708,
+    "company_balance": "$154,139.09",
+    "company_cnae": 3042,
+    "company_address": "813 Wyckoff Street, 2179",
+    "company_phone": "+29 (992) 547-3779",
+    "company_city": "Esmont",
+    "company_state": "Maine",
+    "company_postal_code": 1970,
+    "company_country": "Qatar",
+    "company_email": "fischersanford@hinway.com",
     "company_year_of_creation": 2016,
     "company_isActive": false,
     "company_picture": "http://placehold.it/32x32",
     "company_member": [
       {
         "member_position": "President",
-        "member_name": "Vaughan Martinez",
+        "member_name": "Lenora Cooper",
         "member_info": "",
-        "member_phone": "+50 (956) 424-2171"
+        "member_phone": "+69 (869) 506-3294"
       },
       {
         "member_position": "VicePresident",
-        "member_name": "Elisabeth Mueller",
+        "member_name": "Campbell Norton",
         "member_info": "",
-        "member_phone": "+58 (867) 561-2214"
+        "member_phone": "+5 (800) 436-3782"
       },
       {
         "member_position": "Finantial Director",
-        "member_name": "Murray Huff",
+        "member_name": "Morse Holden",
         "member_info": "",
-        "member_phone": "+9 (826) 518-3046"
+        "member_phone": "+18 (813) 414-3904"
       },
       {
         "member_position": "Marketing Director",
-        "member_name": "Mercedes Price",
+        "member_name": "Bradford Cruz",
         "member_info": "",
-        "member_phone": "+19 (851) 580-2246"
+        "member_phone": "+30 (840) 477-3965"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 13064796,
+        "bill_date": "2017-04-19T11:03:08 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$7,875.52"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d5859865f08b12915",
+    "company_nif": "C656767490",
+    "company_name": "ACCEL",
+    "company_type": "Animal breeding",
+    "company_num_employees": 5323,
+    "company_balance": "$509,158.12",
+    "company_cnae": 5316,
+    "company_address": "636 Roebling Street, 9892",
+    "company_phone": "+35 (970) 554-3056",
+    "company_city": "Camino",
+    "company_state": "Virgin Islands",
+    "company_postal_code": 1987,
+    "company_country": "Panama",
+    "company_email": "bradfordcruz@accel.com",
+    "company_year_of_creation": 1968,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Clarke Walters",
+        "member_info": "",
+        "member_phone": "+85 (865) 401-3140"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Carolyn York",
+        "member_info": "",
+        "member_phone": "+64 (967) 431-2969"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Trina Rodgers",
+        "member_info": "",
+        "member_phone": "+67 (895) 508-2684"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Davis Erickson",
+        "member_info": "",
+        "member_phone": "+49 (959) 472-2206"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 27713011,
+        "bill_date": "2016-03-09T07:14:44 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$88,019.57"
+      },
+      {
+        "bill_id": 81483112,
+        "bill_date": "2014-09-11T05:04:32 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$56,757.58"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d106061697249008b",
+    "company_nif": "X521565695",
+    "company_name": "PEARLESSA",
+    "company_type": "Building",
+    "company_num_employees": 9507,
+    "company_balance": "$694,179.77",
+    "company_cnae": 9160,
+    "company_address": "697 Robert Street, 9222",
+    "company_phone": "+36 (944) 588-2793",
+    "company_city": "Clayville",
+    "company_state": "Arkansas",
+    "company_postal_code": 2422,
+    "company_country": "Kuwait",
+    "company_email": "daviserickson@pearlessa.com",
+    "company_year_of_creation": 1994,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Hicks Brooks",
+        "member_info": "",
+        "member_phone": "+22 (917) 600-3477"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Karyn Long",
+        "member_info": "",
+        "member_phone": "+50 (818) 589-2606"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "West Ortega",
+        "member_info": "",
+        "member_phone": "+63 (840) 503-3733"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Yvonne Daniel",
+        "member_info": "",
+        "member_phone": "+70 (905) 533-2645"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 81282287,
+        "bill_date": "2017-01-23T12:21:43 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$59,540.44"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d0d7cf9ac4ae42834",
+    "company_nif": "D579119139",
+    "company_name": "INSURON",
+    "company_type": "Building",
+    "company_num_employees": 4729,
+    "company_balance": "$351,043.38",
+    "company_cnae": 6294,
+    "company_address": "958 Jackson Court, 1924",
+    "company_phone": "+84 (968) 494-2686",
+    "company_city": "Dunbar",
+    "company_state": "Georgia",
+    "company_postal_code": 3705,
+    "company_country": "Heard and McDonald Islands",
+    "company_email": "yvonnedaniel@insuron.com",
+    "company_year_of_creation": 1962,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Pamela Battle",
+        "member_info": "",
+        "member_phone": "+71 (907) 596-3292"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Tracey Ware",
+        "member_info": "",
+        "member_phone": "+11 (844) 404-2850"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Jody Beach",
+        "member_info": "",
+        "member_phone": "+55 (824) 468-2776"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "David Pope",
+        "member_info": "",
+        "member_phone": "+53 (903) 474-2798"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 797316,
+        "bill_date": "2016-08-08T12:16:43 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$67,838.50"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874de0234f4c385269c9",
+    "company_nif": "F596364663",
+    "company_name": "BIOSPAN",
+    "company_type": "Energy provider",
+    "company_num_employees": 4751,
+    "company_balance": "$528,818.19",
+    "company_cnae": 7811,
+    "company_address": "685 Clermont Avenue, 512",
+    "company_phone": "+2 (981) 550-2527",
+    "company_city": "Whitmer",
+    "company_state": "Louisiana",
+    "company_postal_code": 4063,
+    "company_country": "Mayotte",
+    "company_email": "davidpope@biospan.com",
+    "company_year_of_creation": 2004,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Whitney Taylor",
+        "member_info": "",
+        "member_phone": "+48 (936) 428-2203"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "King Hines",
+        "member_info": "",
+        "member_phone": "+28 (808) 423-3260"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Farmer Mcintosh",
+        "member_info": "",
+        "member_phone": "+63 (928) 445-3329"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Branch Hardin",
+        "member_info": "",
+        "member_phone": "+22 (959) 496-3948"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 932468,
+        "bill_date": "2017-01-19T04:46:28 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$58,639.56"
+      },
+      {
+        "bill_id": 83437935,
+        "bill_date": "2014-10-05T03:13:13 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$25,696.19"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d6490cc539a842ca9",
+    "company_nif": "W178378009",
+    "company_name": "VIRVA",
+    "company_type": "Water provider",
+    "company_num_employees": 4721,
+    "company_balance": "$341,635.70",
+    "company_cnae": 5692,
+    "company_address": "658 Montgomery Place, 939",
+    "company_phone": "+90 (834) 536-3704",
+    "company_city": "Shawmut",
+    "company_state": "Oregon",
+    "company_postal_code": 1025,
+    "company_country": "Lebanon",
+    "company_email": "branchhardin@virva.com",
+    "company_year_of_creation": 1936,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Kathryn Wall",
+        "member_info": "",
+        "member_phone": "+73 (812) 583-2694"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Small Knapp",
+        "member_info": "",
+        "member_phone": "+44 (947) 521-2592"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Ray Gross",
+        "member_info": "",
+        "member_phone": "+48 (819) 532-3388"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Jean Gordon",
+        "member_info": "",
+        "member_phone": "+63 (945) 493-2121"
       }
     ],
     "company_bill": []
+  },
+  {
+    "_id": "58fb874d19934f01c40a206a",
+    "company_nif": "K60780154",
+    "company_name": "BULLJUICE",
+    "company_type": "Information and communication",
+    "company_num_employees": 3572,
+    "company_balance": "$43,131.53",
+    "company_cnae": 3375,
+    "company_address": "494 Columbus Place, 9307",
+    "company_phone": "+26 (807) 421-3745",
+    "company_city": "Brandywine",
+    "company_state": "Massachusetts",
+    "company_postal_code": 7577,
+    "company_country": "Algeria",
+    "company_email": "jeangordon@bulljuice.com",
+    "company_year_of_creation": 2016,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Jennifer Mcmillan",
+        "member_info": "",
+        "member_phone": "+70 (852) 501-3585"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Jacqueline Ballard",
+        "member_info": "",
+        "member_phone": "+65 (827) 405-2182"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Dotson Reid",
+        "member_info": "",
+        "member_phone": "+76 (835) 408-3548"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Ewing Kirk",
+        "member_info": "",
+        "member_phone": "+50 (863) 450-2956"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 28270065,
+        "bill_date": "2016-10-18T12:34:41 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$45,506.87"
+      },
+      {
+        "bill_id": 45262862,
+        "bill_date": "2015-12-17T11:11:45 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$7,366.18"
+      },
+      {
+        "bill_id": 77904847,
+        "bill_date": "2016-03-27T10:57:41 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$9,222.28"
+      },
+      {
+        "bill_id": 14841414,
+        "bill_date": "2016-08-20T02:02:31 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$73,173.75"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d40a685ada65aad55",
+    "company_nif": "U889301104",
+    "company_name": "NEXGENE",
+    "company_type": "Finantial activities",
+    "company_num_employees": 6483,
+    "company_balance": "$792,059.80",
+    "company_cnae": 5723,
+    "company_address": "962 Monitor Street, 7511",
+    "company_phone": "+45 (850) 400-2696",
+    "company_city": "Floriston",
+    "company_state": "Delaware",
+    "company_postal_code": 2659,
+    "company_country": "S. Georgia and S. Sandwich Isls.",
+    "company_email": "ewingkirk@nexgene.com",
+    "company_year_of_creation": 1951,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Kelley Harding",
+        "member_info": "",
+        "member_phone": "+29 (849) 417-3248"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Singleton Newman",
+        "member_info": "",
+        "member_phone": "+41 (850) 596-3110"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Shelton Phillips",
+        "member_info": "",
+        "member_phone": "+77 (920) 589-3035"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Melendez Porter",
+        "member_info": "",
+        "member_phone": "+15 (990) 437-2029"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874dce75559bc7aee2f3",
+    "company_nif": "R340602993",
+    "company_name": "RUBADUB",
+    "company_type": "Extractive industry",
+    "company_num_employees": 7930,
+    "company_balance": "$518,997.97",
+    "company_cnae": 6564,
+    "company_address": "985 Wythe Place, 5047",
+    "company_phone": "+60 (944) 565-3051",
+    "company_city": "Williston",
+    "company_state": "Nevada",
+    "company_postal_code": 2404,
+    "company_country": "Macau",
+    "company_email": "melendezporter@rubadub.com",
+    "company_year_of_creation": 1932,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Murphy Becker",
+        "member_info": "",
+        "member_phone": "+37 (815) 534-2058"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Nelda Potter",
+        "member_info": "",
+        "member_phone": "+56 (974) 562-3340"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Navarro Koch",
+        "member_info": "",
+        "member_phone": "+56 (907) 461-3929"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Sosa Vang",
+        "member_info": "",
+        "member_phone": "+33 (817) 489-3531"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874da0ff2f0b8959a899",
+    "company_nif": "T429533395",
+    "company_name": "HATOLOGY",
+    "company_type": "Finantial activities",
+    "company_num_employees": 757,
+    "company_balance": "$511,679.30",
+    "company_cnae": 2292,
+    "company_address": "251 Grand Street, 5516",
+    "company_phone": "+67 (882) 571-3676",
+    "company_city": "Topaz",
+    "company_state": "Alabama",
+    "company_postal_code": 9369,
+    "company_country": "Nepal",
+    "company_email": "sosavang@hatology.com",
+    "company_year_of_creation": 1957,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Goff Hooper",
+        "member_info": "",
+        "member_phone": "+74 (854) 596-3982"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Tommie Deleon",
+        "member_info": "",
+        "member_phone": "+12 (988) 549-2268"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Maricela Miranda",
+        "member_info": "",
+        "member_phone": "+84 (941) 436-2725"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Arnold Mcmahon",
+        "member_info": "",
+        "member_phone": "+6 (983) 560-2236"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 48309299,
+        "bill_date": "2014-09-27T10:08:47 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$44,148.50"
+      },
+      {
+        "bill_id": 14160139,
+        "bill_date": "2014-10-20T05:56:47 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$1,895.61"
+      },
+      {
+        "bill_id": 5462984,
+        "bill_date": "2015-10-08T10:43:41 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$57,129.55"
+      },
+      {
+        "bill_id": 65050520,
+        "bill_date": "2014-08-28T03:19:39 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$3,740.54"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d60dc4237ce508189",
+    "company_nif": "W601966169",
+    "company_name": "SPLINX",
+    "company_type": "Animal breeding",
+    "company_num_employees": 8457,
+    "company_balance": "$814,778.94",
+    "company_cnae": 3336,
+    "company_address": "680 Conklin Avenue, 549",
+    "company_phone": "+39 (870) 519-2185",
+    "company_city": "Chestnut",
+    "company_state": "Montana",
+    "company_postal_code": 1049,
+    "company_country": "French Guiana",
+    "company_email": "arnoldmcmahon@splinx.com",
+    "company_year_of_creation": 1982,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Donna Pickett",
+        "member_info": "",
+        "member_phone": "+9 (814) 409-3205"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Staci Mclean",
+        "member_info": "",
+        "member_phone": "+68 (859) 552-2764"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Williams Burch",
+        "member_info": "",
+        "member_phone": "+50 (976) 507-2021"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Aline Shields",
+        "member_info": "",
+        "member_phone": "+43 (902) 473-2421"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 75778619,
+        "bill_date": "2015-06-14T04:18:24 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$63,599.26"
+      },
+      {
+        "bill_id": 67626699,
+        "bill_date": "2014-02-05T11:21:22 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$94,630.15"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df129ae30ad655cab",
+    "company_nif": "F397902268",
+    "company_name": "KANGLE",
+    "company_type": "Finantial activities",
+    "company_num_employees": 5431,
+    "company_balance": "$589,775.56",
+    "company_cnae": 7838,
+    "company_address": "328 Tiffany Place, 4194",
+    "company_phone": "+13 (996) 560-2498",
+    "company_city": "Movico",
+    "company_state": "Wyoming",
+    "company_postal_code": 5602,
+    "company_country": "Malawi",
+    "company_email": "alineshields@kangle.com",
+    "company_year_of_creation": 1989,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Leblanc Mann",
+        "member_info": "",
+        "member_phone": "+27 (939) 535-2734"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Greta Reese",
+        "member_info": "",
+        "member_phone": "+22 (998) 438-3095"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Lindsay Vincent",
+        "member_info": "",
+        "member_phone": "+3 (825) 497-2234"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Lynn Hardy",
+        "member_info": "",
+        "member_phone": "+56 (932) 406-2761"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 74979704,
+        "bill_date": "2014-06-09T05:07:10 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$66,198.89"
+      },
+      {
+        "bill_id": 74113234,
+        "bill_date": "2014-07-16T08:57:53 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$81,854.42"
+      },
+      {
+        "bill_id": 90387964,
+        "bill_date": "2015-08-06T09:26:59 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$6,360.40"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874def7b0058cd6a0bce",
+    "company_nif": "V323285691",
+    "company_name": "SLUMBERIA",
+    "company_type": "Water provider",
+    "company_num_employees": 7468,
+    "company_balance": "$596,874.30",
+    "company_cnae": 2697,
+    "company_address": "909 Summit Street, 8584",
+    "company_phone": "+72 (825) 574-3443",
+    "company_city": "Springville",
+    "company_state": "Oklahoma",
+    "company_postal_code": 6831,
+    "company_country": "Gibraltar",
+    "company_email": "lynnhardy@slumberia.com",
+    "company_year_of_creation": 1951,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Banks Wheeler",
+        "member_info": "",
+        "member_phone": "+68 (964) 491-2386"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Stein Barrera",
+        "member_info": "",
+        "member_phone": "+52 (911) 588-2062"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Gould Travis",
+        "member_info": "",
+        "member_phone": "+3 (847) 551-3924"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Gates Mitchell",
+        "member_info": "",
+        "member_phone": "+58 (909) 455-2839"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 46978552,
+        "bill_date": "2014-01-16T01:42:37 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$84,004.62"
+      },
+      {
+        "bill_id": 78492373,
+        "bill_date": "2016-12-17T12:02:24 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$72,895.89"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d6b71961194b48362",
+    "company_nif": "E92023227",
+    "company_name": "MANGELICA",
+    "company_type": "Animal breeding",
+    "company_num_employees": 5797,
+    "company_balance": "$381,124.30",
+    "company_cnae": 5432,
+    "company_address": "115 Nolans Lane, 9607",
+    "company_phone": "+3 (870) 499-2804",
+    "company_city": "Sidman",
+    "company_state": "Indiana",
+    "company_postal_code": 8577,
+    "company_country": "Belize",
+    "company_email": "gatesmitchell@mangelica.com",
+    "company_year_of_creation": 1955,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Barr Whitaker",
+        "member_info": "",
+        "member_phone": "+21 (807) 504-3334"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Marcie Cantu",
+        "member_info": "",
+        "member_phone": "+62 (807) 477-2236"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Brock Brock",
+        "member_info": "",
+        "member_phone": "+22 (990) 581-2163"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Edwina Cobb",
+        "member_info": "",
+        "member_phone": "+1 (933) 542-3451"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d5dd3bd4337fe6624",
+    "company_nif": "Z595602854",
+    "company_name": "PROXSOFT",
+    "company_type": "Public Administration and Defense",
+    "company_num_employees": 6553,
+    "company_balance": "$283,936.65",
+    "company_cnae": 9910,
+    "company_address": "443 Underhill Avenue, 3176",
+    "company_phone": "+45 (864) 511-3755",
+    "company_city": "Caron",
+    "company_state": "Connecticut",
+    "company_postal_code": 333,
+    "company_country": "El Salvador",
+    "company_email": "edwinacobb@proxsoft.com",
+    "company_year_of_creation": 1979,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Brenda Owen",
+        "member_info": "",
+        "member_phone": "+33 (949) 434-2213"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hubbard Pena",
+        "member_info": "",
+        "member_phone": "+9 (831) 509-3355"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Imelda Hatfield",
+        "member_info": "",
+        "member_phone": "+59 (825) 538-2996"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Ruth Barrett",
+        "member_info": "",
+        "member_phone": "+15 (882) 503-2160"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 74895902,
+        "bill_date": "2015-10-25T08:10:14 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$29,675.30"
+      },
+      {
+        "bill_id": 47615764,
+        "bill_date": "2016-09-18T05:44:23 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$11,181.21"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d85c554e2a9ad8ae1",
+    "company_nif": "X843223716",
+    "company_name": "CANOPOLY",
+    "company_type": "Transport and storage",
+    "company_num_employees": 3173,
+    "company_balance": "$187,256.93",
+    "company_cnae": 7868,
+    "company_address": "377 Rochester Avenue, 1229",
+    "company_phone": "+36 (973) 448-2862",
+    "company_city": "Deercroft",
+    "company_state": "Idaho",
+    "company_postal_code": 6124,
+    "company_country": "Namibia",
+    "company_email": "ruthbarrett@canopoly.com",
+    "company_year_of_creation": 1978,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "York Klein",
+        "member_info": "",
+        "member_phone": "+10 (916) 441-2899"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Boyle Schwartz",
+        "member_info": "",
+        "member_phone": "+57 (991) 402-3090"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Guzman Nielsen",
+        "member_info": "",
+        "member_phone": "+14 (959) 438-2130"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Elise Foreman",
+        "member_info": "",
+        "member_phone": "+90 (985) 467-3739"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 51888505,
+        "bill_date": "2014-01-26T01:08:56 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$8,462.17"
+      },
+      {
+        "bill_id": 33861404,
+        "bill_date": "2016-05-06T12:08:00 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$55,546.09"
+      },
+      {
+        "bill_id": 29458919,
+        "bill_date": "2014-01-07T02:20:27 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$71,209.70"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d2d6997033893db7f",
+    "company_nif": "B248158893",
+    "company_name": "ECRATIC",
+    "company_type": "Vehicle provider",
+    "company_num_employees": 7345,
+    "company_balance": "$291,199.35",
+    "company_cnae": 4684,
+    "company_address": "238 Lynch Street, 2679",
+    "company_phone": "+36 (929) 476-3980",
+    "company_city": "Orick",
+    "company_state": "Maryland",
+    "company_postal_code": 7347,
+    "company_country": "Cuba",
+    "company_email": "eliseforeman@ecratic.com",
+    "company_year_of_creation": 1933,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Decker Knight",
+        "member_info": "",
+        "member_phone": "+54 (818) 500-2712"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Sykes Dennis",
+        "member_info": "",
+        "member_phone": "+63 (927) 548-3659"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Kelsey Anthony",
+        "member_info": "",
+        "member_phone": "+71 (960) 523-2785"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Mona Morris",
+        "member_info": "",
+        "member_phone": "+49 (914) 404-3573"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 30407966,
+        "bill_date": "2016-11-03T12:10:02 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$39,869.60"
+      },
+      {
+        "bill_id": 92870910,
+        "bill_date": "2016-10-17T07:51:55 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$63,999.67"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d139cca0003afb66b",
+    "company_nif": "P137788295",
+    "company_name": "KINETICUT",
+    "company_type": "Art and Entertainment",
+    "company_num_employees": 5496,
+    "company_balance": "$568,271.73",
+    "company_cnae": 2682,
+    "company_address": "687 Fleet Place, 245",
+    "company_phone": "+55 (955) 567-3115",
+    "company_city": "Bluffview",
+    "company_state": "Guam",
+    "company_postal_code": 4261,
+    "company_country": "New Zealand",
+    "company_email": "monamorris@kineticut.com",
+    "company_year_of_creation": 1935,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Alisha Cook",
+        "member_info": "",
+        "member_phone": "+75 (944) 480-3510"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Watts Castaneda",
+        "member_info": "",
+        "member_phone": "+33 (996) 431-3304"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Maritza Fletcher",
+        "member_info": "",
+        "member_phone": "+87 (834) 462-2261"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Hines Vinson",
+        "member_info": "",
+        "member_phone": "+10 (814) 501-3464"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 16064801,
+        "bill_date": "2016-04-10T07:45:49 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$24,885.86"
+      },
+      {
+        "bill_id": 46602434,
+        "bill_date": "2015-07-11T12:05:37 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$50,041.66"
+      },
+      {
+        "bill_id": 18102649,
+        "bill_date": "2016-04-22T09:13:26 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$77,481.91"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d8331f073ee8bb36d",
+    "company_nif": "L25962850",
+    "company_name": "MUSAPHICS",
+    "company_type": "Information and communication",
+    "company_num_employees": 8683,
+    "company_balance": "$343,387.44",
+    "company_cnae": 5521,
+    "company_address": "348 Croton Loop, 9503",
+    "company_phone": "+85 (825) 545-3047",
+    "company_city": "Bynum",
+    "company_state": "Vermont",
+    "company_postal_code": 1559,
+    "company_country": "East Timor",
+    "company_email": "hinesvinson@musaphics.com",
+    "company_year_of_creation": 2002,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Chrystal Saunders",
+        "member_info": "",
+        "member_phone": "+77 (999) 583-3770"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hill Odom",
+        "member_info": "",
+        "member_phone": "+71 (948) 432-3158"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Finley Slater",
+        "member_info": "",
+        "member_phone": "+72 (984) 587-2225"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Wilkinson Barker",
+        "member_info": "",
+        "member_phone": "+1 (908) 537-3404"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 92777389,
+        "bill_date": "2015-10-28T04:25:37 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$46,125.64"
+      },
+      {
+        "bill_id": 60582258,
+        "bill_date": "2016-08-11T07:58:58 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$30,410.48"
+      },
+      {
+        "bill_id": 24669904,
+        "bill_date": "2015-10-24T05:05:06 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$44,284.38"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df1926adf3c4f2fa0",
+    "company_nif": "D512899054",
+    "company_name": "AQUASSEUR",
+    "company_type": "Transport and storage",
+    "company_num_employees": 3807,
+    "company_balance": "$611,264.25",
+    "company_cnae": 2259,
+    "company_address": "561 Sumner Place, 5323",
+    "company_phone": "+77 (959) 518-2102",
+    "company_city": "Franklin",
+    "company_state": "Minnesota",
+    "company_postal_code": 319,
+    "company_country": "Albania",
+    "company_email": "wilkinsonbarker@aquasseur.com",
+    "company_year_of_creation": 1979,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Michele Kim",
+        "member_info": "",
+        "member_phone": "+4 (966) 507-2690"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Mariana Edwards",
+        "member_info": "",
+        "member_phone": "+20 (847) 527-3822"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Pam Evans",
+        "member_info": "",
+        "member_phone": "+20 (965) 448-2183"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Schroeder Bowers",
+        "member_info": "",
+        "member_phone": "+13 (862) 421-3412"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 61453114,
+        "bill_date": "2017-03-28T05:36:03 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$23,168.14"
+      },
+      {
+        "bill_id": 58893744,
+        "bill_date": "2014-02-04T02:05:42 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$22,330.95"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d456be5b791a99614",
+    "company_nif": "B566538395",
+    "company_name": "MARQET",
+    "company_type": "Finantial activities",
+    "company_num_employees": 1292,
+    "company_balance": "$718,619.36",
+    "company_cnae": 1163,
+    "company_address": "314 Seigel Court, 2662",
+    "company_phone": "+18 (853) 499-3168",
+    "company_city": "Curtice",
+    "company_state": "Washington",
+    "company_postal_code": 940,
+    "company_country": "India",
+    "company_email": "schroederbowers@marqet.com",
+    "company_year_of_creation": 1947,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Dale Giles",
+        "member_info": "",
+        "member_phone": "+46 (826) 486-2981"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Ellen Ferrell",
+        "member_info": "",
+        "member_phone": "+15 (960) 598-3632"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Maryanne Fox",
+        "member_info": "",
+        "member_phone": "+36 (932) 539-2521"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Munoz Chaney",
+        "member_info": "",
+        "member_phone": "+14 (966) 504-2235"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 75852171,
+        "bill_date": "2015-02-16T01:50:16 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$98,694.45"
+      },
+      {
+        "bill_id": 7609894,
+        "bill_date": "2014-04-28T10:45:11 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$53,871.11"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df9e773cf3b24cbac",
+    "company_nif": "H248240164",
+    "company_name": "MEDICROIX",
+    "company_type": "Farming",
+    "company_num_employees": 987,
+    "company_balance": "$204,179.63",
+    "company_cnae": 6080,
+    "company_address": "465 Bushwick Avenue, 5645",
+    "company_phone": "+66 (836) 450-3699",
+    "company_city": "Tyhee",
+    "company_state": "South Carolina",
+    "company_postal_code": 3528,
+    "company_country": "Palau",
+    "company_email": "munozchaney@medicroix.com",
+    "company_year_of_creation": 1965,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Hendricks Mcneil",
+        "member_info": "",
+        "member_phone": "+32 (906) 427-3100"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Mosley Stone",
+        "member_info": "",
+        "member_phone": "+50 (891) 515-3188"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Vilma Donaldson",
+        "member_info": "",
+        "member_phone": "+65 (984) 457-2241"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Kelli Bird",
+        "member_info": "",
+        "member_phone": "+45 (807) 567-3112"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874dca4b747c7fa28ed6",
+    "company_nif": "Z83684676",
+    "company_name": "FILODYNE",
+    "company_type": "Information and communication",
+    "company_num_employees": 3117,
+    "company_balance": "$213,342.33",
+    "company_cnae": 5978,
+    "company_address": "671 Rapelye Street, 4544",
+    "company_phone": "+6 (900) 449-3978",
+    "company_city": "Iberia",
+    "company_state": "Florida",
+    "company_postal_code": 9038,
+    "company_country": "Sri Lanka",
+    "company_email": "kellibird@filodyne.com",
+    "company_year_of_creation": 2011,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Booker Lloyd",
+        "member_info": "",
+        "member_phone": "+87 (852) 589-2177"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Lawrence Joyce",
+        "member_info": "",
+        "member_phone": "+14 (988) 494-3457"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Willie Dodson",
+        "member_info": "",
+        "member_phone": "+8 (826) 520-3632"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Sweet Vaughn",
+        "member_info": "",
+        "member_phone": "+45 (886) 444-3638"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 28192103,
+        "bill_date": "2016-08-25T03:54:04 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$34,269.02"
+      },
+      {
+        "bill_id": 94995768,
+        "bill_date": "2015-10-06T02:24:52 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$41,705.62"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dc0436ae95e7665ce",
+    "company_nif": "A252945229",
+    "company_name": "GOKO",
+    "company_type": "Art and Entertainment",
+    "company_num_employees": 5634,
+    "company_balance": "$347,752.51",
+    "company_cnae": 9308,
+    "company_address": "490 Dooley Street, 3312",
+    "company_phone": "+71 (920) 569-2975",
+    "company_city": "Golconda",
+    "company_state": "Puerto Rico",
+    "company_postal_code": 7542,
+    "company_country": "Rwanda",
+    "company_email": "sweetvaughn@goko.com",
+    "company_year_of_creation": 1942,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lott Glenn",
+        "member_info": "",
+        "member_phone": "+71 (817) 530-2874"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Selma Hebert",
+        "member_info": "",
+        "member_phone": "+37 (953) 545-2194"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Gillespie Avery",
+        "member_info": "",
+        "member_phone": "+73 (870) 442-3222"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Gamble Frederick",
+        "member_info": "",
+        "member_phone": "+47 (923) 441-2344"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d377813957ed52213",
+    "company_nif": "N859191961",
+    "company_name": "PRIMORDIA",
+    "company_type": "Fishing",
+    "company_num_employees": 5886,
+    "company_balance": "$743,659.96",
+    "company_cnae": 9225,
+    "company_address": "861 Elmwood Avenue, 8828",
+    "company_phone": "+71 (965) 537-3141",
+    "company_city": "Hayes",
+    "company_state": "Arizona",
+    "company_postal_code": 5795,
+    "company_country": "United Kingdom",
+    "company_email": "gamblefrederick@primordia.com",
+    "company_year_of_creation": 1965,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Colette Horn",
+        "member_info": "",
+        "member_phone": "+23 (810) 521-2834"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Jenny Burnett",
+        "member_info": "",
+        "member_phone": "+60 (879) 508-2603"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Andrews Dale",
+        "member_info": "",
+        "member_phone": "+20 (837) 480-2199"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Crosby Lawrence",
+        "member_info": "",
+        "member_phone": "+3 (875) 530-3294"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 20865181,
+        "bill_date": "2016-04-06T05:50:53 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$72,944.14"
+      },
+      {
+        "bill_id": 25955834,
+        "bill_date": "2014-07-25T02:58:09 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$40,641.62"
+      },
+      {
+        "bill_id": 99350266,
+        "bill_date": "2016-11-19T12:31:02 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$26,892.78"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dc612dcd020b097f4",
+    "company_nif": "T262518177",
+    "company_name": "ISOLOGICA",
+    "company_type": "Public Administration and Defense",
+    "company_num_employees": 2479,
+    "company_balance": "$756,785.98",
+    "company_cnae": 4337,
+    "company_address": "856 Porter Avenue, 2339",
+    "company_phone": "+30 (955) 579-2942",
+    "company_city": "Inkerman",
+    "company_state": "Alaska",
+    "company_postal_code": 3369,
+    "company_country": "Svalbard and Jan Mayen Islands",
+    "company_email": "crosbylawrence@isologica.com",
+    "company_year_of_creation": 1990,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Florine Singleton",
+        "member_info": "",
+        "member_phone": "+60 (918) 459-2982"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Sally Berry",
+        "member_info": "",
+        "member_phone": "+65 (833) 486-3169"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Peters Fisher",
+        "member_info": "",
+        "member_phone": "+51 (821) 559-3385"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Ortiz Hernandez",
+        "member_info": "",
+        "member_phone": "+79 (958) 546-2430"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d6a19eef624340338",
+    "company_nif": "M571904732",
+    "company_name": "CENTREE",
+    "company_type": "Finantial activities",
+    "company_num_employees": 4184,
+    "company_balance": "$640,756.33",
+    "company_cnae": 9055,
+    "company_address": "410 Fanchon Place, 2713",
+    "company_phone": "+69 (803) 436-2875",
+    "company_city": "Fingerville",
+    "company_state": "Marshall Islands",
+    "company_postal_code": 3861,
+    "company_country": "Mauritius",
+    "company_email": "ortizhernandez@centree.com",
+    "company_year_of_creation": 1976,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Ophelia Tran",
+        "member_info": "",
+        "member_phone": "+86 (898) 514-3269"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Turner Workman",
+        "member_info": "",
+        "member_phone": "+71 (812) 576-2805"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Yates Beasley",
+        "member_info": "",
+        "member_phone": "+45 (830) 511-2765"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Sylvia Stuart",
+        "member_info": "",
+        "member_phone": "+66 (984) 483-2194"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 8004287,
+        "bill_date": "2015-01-26T08:48:45 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$58,987.55"
+      },
+      {
+        "bill_id": 2804406,
+        "bill_date": "2015-06-16T11:24:30 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$12,251.92"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dfc2b3acbd9b842c5",
+    "company_nif": "X322019317",
+    "company_name": "PLASTO",
+    "company_type": "Building",
+    "company_num_employees": 8259,
+    "company_balance": "$742,408.86",
+    "company_cnae": 6889,
+    "company_address": "271 Hendrix Street, 1201",
+    "company_phone": "+70 (990) 471-3923",
+    "company_city": "Cedarville",
+    "company_state": "New Hampshire",
+    "company_postal_code": 1334,
+    "company_country": "Togo",
+    "company_email": "sylviastuart@plasto.com",
+    "company_year_of_creation": 1980,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Bender Olson",
+        "member_info": "",
+        "member_phone": "+30 (999) 516-2648"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Raymond Norris",
+        "member_info": "",
+        "member_phone": "+55 (805) 542-2747"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Velma Gardner",
+        "member_info": "",
+        "member_phone": "+45 (908) 498-2977"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Dina Warren",
+        "member_info": "",
+        "member_phone": "+53 (988) 577-3124"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 97460916,
+        "bill_date": "2016-06-09T11:38:37 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$27,729.08"
+      },
+      {
+        "bill_id": 63982648,
+        "bill_date": "2016-03-24T06:58:08 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$12,818.22"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dd07adddfb0efcba9",
+    "company_nif": "Q591633646",
+    "company_name": "FOSSIEL",
+    "company_type": "Administrative services",
+    "company_num_employees": 4123,
+    "company_balance": "$829,667.44",
+    "company_cnae": 4577,
+    "company_address": "836 Thomas Street, 3667",
+    "company_phone": "+68 (822) 519-2087",
+    "company_city": "Sabillasville",
+    "company_state": "American Samoa",
+    "company_postal_code": 3376,
+    "company_country": "Argentina",
+    "company_email": "dinawarren@fossiel.com",
+    "company_year_of_creation": 1947,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Blanca Garner",
+        "member_info": "",
+        "member_phone": "+39 (905) 549-3608"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Annette Franco",
+        "member_info": "",
+        "member_phone": "+72 (901) 551-2380"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Collins Adams",
+        "member_info": "",
+        "member_phone": "+71 (808) 428-3565"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Allison Mendoza",
+        "member_info": "",
+        "member_phone": "+12 (941) 446-2827"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 27779717,
+        "bill_date": "2015-06-24T01:25:13 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$98,162.03"
+      },
+      {
+        "bill_id": 85021415,
+        "bill_date": "2016-11-10T09:17:22 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$88,505.98"
+      },
+      {
+        "bill_id": 4364105,
+        "bill_date": "2014-08-10T10:07:52 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$97,346.71"
+      },
+      {
+        "bill_id": 66890641,
+        "bill_date": "2015-02-24T08:45:48 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$76,756.39"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dea405fa181098060",
+    "company_nif": "H197300398",
+    "company_name": "GEEKUS",
+    "company_type": "Professional services",
+    "company_num_employees": 3514,
+    "company_balance": "$251,793.40",
+    "company_cnae": 2024,
+    "company_address": "151 Douglass Street, 8984",
+    "company_phone": "+48 (866) 494-3648",
+    "company_city": "Cumberland",
+    "company_state": "Utah",
+    "company_postal_code": 5461,
+    "company_country": "Malta",
+    "company_email": "allisonmendoza@geekus.com",
+    "company_year_of_creation": 1949,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Adrienne Hale",
+        "member_info": "",
+        "member_phone": "+83 (879) 428-2599"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Charlene Berg",
+        "member_info": "",
+        "member_phone": "+13 (956) 408-3323"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Simpson Leblanc",
+        "member_info": "",
+        "member_phone": "+4 (944) 519-3430"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Anna Hurley",
+        "member_info": "",
+        "member_phone": "+52 (858) 526-3178"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 91022273,
+        "bill_date": "2016-11-14T04:04:27 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$66,605.77"
+      },
+      {
+        "bill_id": 16565644,
+        "bill_date": "2016-08-22T09:06:54 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$44,127.34"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dbfa32ee7fd8a2c4b",
+    "company_nif": "U163753163",
+    "company_name": "COMTOUR",
+    "company_type": "Finantial activities",
+    "company_num_employees": 5534,
+    "company_balance": "$235,868.45",
+    "company_cnae": 7735,
+    "company_address": "774 Gold Street, 3946",
+    "company_phone": "+4 (997) 536-3242",
+    "company_city": "Guthrie",
+    "company_state": "Michigan",
+    "company_postal_code": 6764,
+    "company_country": "Netherlands",
+    "company_email": "annahurley@comtour.com",
+    "company_year_of_creation": 1993,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Kelly Walter",
+        "member_info": "",
+        "member_phone": "+22 (889) 512-3158"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Dunn Duran",
+        "member_info": "",
+        "member_phone": "+51 (883) 450-3940"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Marisa Elliott",
+        "member_info": "",
+        "member_phone": "+86 (871) 524-3729"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Rosa Powers",
+        "member_info": "",
+        "member_phone": "+14 (838) 591-3134"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 91829561,
+        "bill_date": "2014-01-23T12:59:00 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$33,840.71"
+      },
+      {
+        "bill_id": 15446869,
+        "bill_date": "2016-09-17T04:06:33 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$86,653.07"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d27ddc4c369ac18ad",
+    "company_nif": "R404190723",
+    "company_name": "OMNIGOG",
+    "company_type": "Building",
+    "company_num_employees": 84,
+    "company_balance": "$81,317.29",
+    "company_cnae": 6985,
+    "company_address": "235 Matthews Place, 994",
+    "company_phone": "+15 (842) 518-2882",
+    "company_city": "Cashtown",
+    "company_state": "West Virginia",
+    "company_postal_code": 6281,
+    "company_country": "Cook Islands",
+    "company_email": "rosapowers@omnigog.com",
+    "company_year_of_creation": 1963,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Scott Cleveland",
+        "member_info": "",
+        "member_phone": "+9 (867) 439-2073"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Ilene Gay",
+        "member_info": "",
+        "member_phone": "+87 (911) 410-2714"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Kari Hobbs",
+        "member_info": "",
+        "member_phone": "+25 (996) 509-2208"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Young Melendez",
+        "member_info": "",
+        "member_phone": "+84 (912) 598-3229"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 57751876,
+        "bill_date": "2017-04-05T12:00:09 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$32,661.43"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874da45aee5bef232701",
+    "company_nif": "A187281155",
+    "company_name": "SUREPLEX",
+    "company_type": "Administrative services",
+    "company_num_employees": 1326,
+    "company_balance": "$706,377.29",
+    "company_cnae": 4816,
+    "company_address": "425 Devoe Street, 2991",
+    "company_phone": "+7 (991) 499-2957",
+    "company_city": "Richford",
+    "company_state": "New Mexico",
+    "company_postal_code": 8825,
+    "company_country": "Oman",
+    "company_email": "youngmelendez@sureplex.com",
+    "company_year_of_creation": 1994,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Trisha Terrell",
+        "member_info": "",
+        "member_phone": "+60 (898) 433-2900"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Loraine Buck",
+        "member_info": "",
+        "member_phone": "+50 (862) 417-2805"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Cherry Stevens",
+        "member_info": "",
+        "member_phone": "+63 (957) 546-2222"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Middleton Ramos",
+        "member_info": "",
+        "member_phone": "+6 (812) 509-2920"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 65843972,
+        "bill_date": "2015-06-11T02:33:35 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$27,867.94"
+      },
+      {
+        "bill_id": 24763974,
+        "bill_date": "2015-04-06T03:19:51 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$17,536.38"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874db5fb6479e06f8194",
+    "company_nif": "M104128648",
+    "company_name": "VALREDA",
+    "company_type": "Professional services",
+    "company_num_employees": 2977,
+    "company_balance": "$919,562.52",
+    "company_cnae": 8794,
+    "company_address": "150 Beaver Street, 353",
+    "company_phone": "+1 (909) 429-2618",
+    "company_city": "Salunga",
+    "company_state": "Wisconsin",
+    "company_postal_code": 1329,
+    "company_country": "Ecuador",
+    "company_email": "middletonramos@valreda.com",
+    "company_year_of_creation": 1969,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lee Duffy",
+        "member_info": "",
+        "member_phone": "+43 (968) 569-3770"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Silvia Rogers",
+        "member_info": "",
+        "member_phone": "+59 (998) 415-3791"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Reyes Floyd",
+        "member_info": "",
+        "member_phone": "+88 (862) 468-2504"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Carol Carey",
+        "member_info": "",
+        "member_phone": "+3 (961) 537-3983"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874dc672a2e21300d949",
+    "company_nif": "D551954672",
+    "company_name": "BIFLEX",
+    "company_type": "Finantial activities",
+    "company_num_employees": 2357,
+    "company_balance": "$199,929.13",
+    "company_cnae": 5890,
+    "company_address": "581 McKinley Avenue, 2313",
+    "company_phone": "+79 (914) 476-3258",
+    "company_city": "Elwood",
+    "company_state": "Rhode Island",
+    "company_postal_code": 8595,
+    "company_country": "Northern Mariana Islands",
+    "company_email": "carolcarey@biflex.com",
+    "company_year_of_creation": 1977,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Levine Goodwin",
+        "member_info": "",
+        "member_phone": "+86 (926) 510-3702"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Christi Dean",
+        "member_info": "",
+        "member_phone": "+69 (967) 485-2762"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Catalina Wise",
+        "member_info": "",
+        "member_phone": "+54 (879) 498-2181"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Mathis Barnett",
+        "member_info": "",
+        "member_phone": "+50 (885) 515-3632"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 37277895,
+        "bill_date": "2015-07-16T09:21:31 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$53,054.35"
+      },
+      {
+        "bill_id": 10466950,
+        "bill_date": "2016-06-13T04:26:37 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$45,456.53"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dcffa198e42e7fe61",
+    "company_nif": "A557785239",
+    "company_name": "TERASCAPE",
+    "company_type": "Vehicle provider",
+    "company_num_employees": 4866,
+    "company_balance": "$718,202.30",
+    "company_cnae": 7747,
+    "company_address": "963 Gallatin Place, 7998",
+    "company_phone": "+62 (976) 586-2573",
+    "company_city": "Roy",
+    "company_state": "Kansas",
+    "company_postal_code": 7261,
+    "company_country": "Mauritania",
+    "company_email": "mathisbarnett@terascape.com",
+    "company_year_of_creation": 2002,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Dora Leach",
+        "member_info": "",
+        "member_phone": "+79 (823) 558-2124"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Eugenia Christensen",
+        "member_info": "",
+        "member_phone": "+12 (996) 428-2646"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Ortega Riley",
+        "member_info": "",
+        "member_phone": "+74 (963) 465-2346"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Greer Booker",
+        "member_info": "",
+        "member_phone": "+19 (975) 590-3908"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874dc2466a99e21b9740",
+    "company_nif": "K375885410",
+    "company_name": "COMTREK",
+    "company_type": "Farming",
+    "company_num_employees": 3006,
+    "company_balance": "$833,057.05",
+    "company_cnae": 5322,
+    "company_address": "225 Elton Street, 6533",
+    "company_phone": "+25 (839) 517-3489",
+    "company_city": "Chilton",
+    "company_state": "Pennsylvania",
+    "company_postal_code": 4980,
+    "company_country": "Seychelles",
+    "company_email": "greerbooker@comtrek.com",
+    "company_year_of_creation": 1990,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Linda Kline",
+        "member_info": "",
+        "member_phone": "+85 (898) 422-3543"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Reva Webb",
+        "member_info": "",
+        "member_phone": "+17 (959) 546-2755"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Candice Reed",
+        "member_info": "",
+        "member_phone": "+39 (815) 595-3553"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Pacheco Jarvis",
+        "member_info": "",
+        "member_phone": "+64 (915) 424-2611"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 97816047,
+        "bill_date": "2015-12-20T08:08:17 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$97,014.11"
+      },
+      {
+        "bill_id": 68456388,
+        "bill_date": "2016-05-31T11:45:41 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$42,454.29"
+      },
+      {
+        "bill_id": 90560431,
+        "bill_date": "2015-07-12T07:05:47 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$85,120.80"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874de6b6a57dab693e6a",
+    "company_nif": "M827120502",
+    "company_name": "ZENOLUX",
+    "company_type": "Vehicle provider",
+    "company_num_employees": 4792,
+    "company_balance": "$859,221.20",
+    "company_cnae": 7822,
+    "company_address": "467 Greenwood Avenue, 3009",
+    "company_phone": "+34 (970) 410-2662",
+    "company_city": "Riner",
+    "company_state": "Texas",
+    "company_postal_code": 6641,
+    "company_country": "Poland",
+    "company_email": "pachecojarvis@zenolux.com",
+    "company_year_of_creation": 1943,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Spencer Bradshaw",
+        "member_info": "",
+        "member_phone": "+24 (819) 566-2853"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Agnes Lester",
+        "member_info": "",
+        "member_phone": "+21 (909) 493-3413"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Delacruz Landry",
+        "member_info": "",
+        "member_phone": "+88 (986) 539-3155"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Poole Rush",
+        "member_info": "",
+        "member_phone": "+36 (973) 434-2395"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d87475504ff107938",
+    "company_nif": "A37525800",
+    "company_name": "EYERIS",
+    "company_type": "Fishing",
+    "company_num_employees": 9580,
+    "company_balance": "$487,868.46",
+    "company_cnae": 9083,
+    "company_address": "561 Dekoven Court, 4540",
+    "company_phone": "+31 (972) 594-3633",
+    "company_city": "Wheatfields",
+    "company_state": "Federated States Of Micronesia",
+    "company_postal_code": 1342,
+    "company_country": "Turks and Caicos Islands",
+    "company_email": "poolerush@eyeris.com",
+    "company_year_of_creation": 1934,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Hahn Gillespie",
+        "member_info": "",
+        "member_phone": "+12 (812) 490-2652"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Belinda Gonzales",
+        "member_info": "",
+        "member_phone": "+34 (812) 506-2102"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Merritt Allen",
+        "member_info": "",
+        "member_phone": "+86 (950) 534-2561"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Perkins Chambers",
+        "member_info": "",
+        "member_phone": "+61 (966) 458-3469"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 38100638,
+        "bill_date": "2015-12-07T04:08:27 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$47,468.44"
+      },
+      {
+        "bill_id": 28331272,
+        "bill_date": "2016-02-14T11:50:35 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$10,414.02"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dae745340832316d8",
+    "company_nif": "Z836692949",
+    "company_name": "ZENTILITY",
+    "company_type": "Transport and storage",
+    "company_num_employees": 8658,
+    "company_balance": "$582,560.71",
+    "company_cnae": 1618,
+    "company_address": "966 Frank Court, 6550",
+    "company_phone": "+20 (909) 420-2260",
+    "company_city": "Lynn",
+    "company_state": "South Dakota",
+    "company_postal_code": 8268,
+    "company_country": "Maldives",
+    "company_email": "perkinschambers@zentility.com",
+    "company_year_of_creation": 1936,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Natalie Bass",
+        "member_info": "",
+        "member_phone": "+55 (869) 571-2387"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Catherine Baird",
+        "member_info": "",
+        "member_phone": "+28 (982) 503-3199"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Pena Melton",
+        "member_info": "",
+        "member_phone": "+22 (990) 466-3884"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Waller Albert",
+        "member_info": "",
+        "member_phone": "+80 (965) 511-2666"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 34443438,
+        "bill_date": "2015-08-03T02:41:16 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$1,774.87"
+      },
+      {
+        "bill_id": 46013995,
+        "bill_date": "2016-07-16T12:59:31 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$37,855.92"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dff37bb4c957032c3",
+    "company_nif": "M89568510",
+    "company_name": "NETERIA",
+    "company_type": "Fishing",
+    "company_num_employees": 7924,
+    "company_balance": "$882,822.70",
+    "company_cnae": 3589,
+    "company_address": "620 Kossuth Place, 8208",
+    "company_phone": "+76 (837) 517-3756",
+    "company_city": "Bangor",
+    "company_state": "Tennessee",
+    "company_postal_code": 7454,
+    "company_country": "Tajikistan",
+    "company_email": "walleralbert@neteria.com",
+    "company_year_of_creation": 1935,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Glenna Bell",
+        "member_info": "",
+        "member_phone": "+31 (828) 491-3145"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hatfield Rosa",
+        "member_info": "",
+        "member_phone": "+2 (929) 498-3632"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Kramer Bauer",
+        "member_info": "",
+        "member_phone": "+66 (957) 492-3003"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Marilyn Morin",
+        "member_info": "",
+        "member_phone": "+13 (813) 514-2691"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 13649426,
+        "bill_date": "2016-10-01T01:07:50 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$89,162.73"
+      },
+      {
+        "bill_id": 68780864,
+        "bill_date": "2015-05-17T11:37:41 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$63,077.36"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d5b5dc870302163fe",
+    "company_nif": "P858087351",
+    "company_name": "LIQUIDOC",
+    "company_type": "Fishing",
+    "company_num_employees": 4470,
+    "company_balance": "$965,145.93",
+    "company_cnae": 8979,
+    "company_address": "532 Evans Street, 4714",
+    "company_phone": "+55 (862) 477-3999",
+    "company_city": "Magnolia",
+    "company_state": "Illinois",
+    "company_postal_code": 4479,
+    "company_country": "Luxembourg",
+    "company_email": "marilynmorin@liquidoc.com",
+    "company_year_of_creation": 2006,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Jones Stark",
+        "member_info": "",
+        "member_phone": "+56 (862) 455-2551"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Miles Ayala",
+        "member_info": "",
+        "member_phone": "+22 (933) 439-2542"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Luna Cummings",
+        "member_info": "",
+        "member_phone": "+39 (832) 583-2301"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Saunders Glass",
+        "member_info": "",
+        "member_phone": "+70 (992) 547-2469"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d0e8edfec8c270271",
+    "company_nif": "Y938430740",
+    "company_name": "DUFLEX",
+    "company_type": "Water provider",
+    "company_num_employees": 9733,
+    "company_balance": "$591,732.39",
+    "company_cnae": 1348,
+    "company_address": "844 Kingsland Avenue, 1059",
+    "company_phone": "+39 (830) 464-3875",
+    "company_city": "Holtville",
+    "company_state": "Palau",
+    "company_postal_code": 9674,
+    "company_country": "Anguilla",
+    "company_email": "saundersglass@duflex.com",
+    "company_year_of_creation": 1985,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Caroline Barber",
+        "member_info": "",
+        "member_phone": "+55 (821) 486-2017"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Mercer Cabrera",
+        "member_info": "",
+        "member_phone": "+37 (819) 582-3263"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Acosta Snider",
+        "member_info": "",
+        "member_phone": "+25 (996) 483-3532"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Cora Stanton",
+        "member_info": "",
+        "member_phone": "+49 (973) 495-2546"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 37537812,
+        "bill_date": "2016-09-21T09:11:34 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$17,295.03"
+      },
+      {
+        "bill_id": 97706257,
+        "bill_date": "2016-02-07T10:13:14 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$79,966.72"
+      },
+      {
+        "bill_id": 28802785,
+        "bill_date": "2015-12-17T12:48:19 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$32,023.33"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874de7146f90fcf4604e",
+    "company_nif": "Y688166863",
+    "company_name": "GENMEX",
+    "company_type": "Health and Social Services",
+    "company_num_employees": 3726,
+    "company_balance": "$643,479.39",
+    "company_cnae": 7289,
+    "company_address": "358 Otsego Street, 7990",
+    "company_phone": "+68 (971) 469-3761",
+    "company_city": "Tioga",
+    "company_state": "Iowa",
+    "company_postal_code": 121,
+    "company_country": "Bangladesh",
+    "company_email": "corastanton@genmex.com",
+    "company_year_of_creation": 2013,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Knox Blanchard",
+        "member_info": "",
+        "member_phone": "+23 (904) 429-3216"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Eve Hayden",
+        "member_info": "",
+        "member_phone": "+8 (913) 411-2212"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Janna Salinas",
+        "member_info": "",
+        "member_phone": "+34 (817) 445-3708"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Thomas Brewer",
+        "member_info": "",
+        "member_phone": "+42 (936) 506-2071"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874da66112abeb9ca9bc",
+    "company_nif": "Y475064412",
+    "company_name": "FANGOLD",
+    "company_type": "Fishing",
+    "company_num_employees": 5381,
+    "company_balance": "$783,324.43",
+    "company_cnae": 3490,
+    "company_address": "968 Lorimer Street, 9850",
+    "company_phone": "+58 (895) 536-2084",
+    "company_city": "Welda",
+    "company_state": "North Carolina",
+    "company_postal_code": 6473,
+    "company_country": "Iceland",
+    "company_email": "thomasbrewer@fangold.com",
+    "company_year_of_creation": 2007,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Chambers Mccray",
+        "member_info": "",
+        "member_phone": "+64 (819) 544-3007"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Theresa Whitley",
+        "member_info": "",
+        "member_phone": "+60 (811) 426-2715"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Debora Hewitt",
+        "member_info": "",
+        "member_phone": "+56 (908) 549-3975"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Nanette Wood",
+        "member_info": "",
+        "member_phone": "+63 (889) 497-2645"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 93960306,
+        "bill_date": "2014-05-15T10:57:59 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$61,636.79"
+      },
+      {
+        "bill_id": 11262419,
+        "bill_date": "2015-09-11T10:30:29 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$63,874.84"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dfe142a4b1c734f21",
+    "company_nif": "P603644915",
+    "company_name": "ARCHITAX",
+    "company_type": "Finantial activities",
+    "company_num_employees": 7636,
+    "company_balance": "$543,961.48",
+    "company_cnae": 1404,
+    "company_address": "289 Herkimer Court, 5901",
+    "company_phone": "+22 (950) 419-2477",
+    "company_city": "Gadsden",
+    "company_state": "California",
+    "company_postal_code": 535,
+    "company_country": "Antigua and Barbuda",
+    "company_email": "nanettewood@architax.com",
+    "company_year_of_creation": 1983,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Merle Cardenas",
+        "member_info": "",
+        "member_phone": "+45 (836) 467-2570"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Annabelle Mcdonald",
+        "member_info": "",
+        "member_phone": "+27 (824) 406-2642"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Tamera Herring",
+        "member_info": "",
+        "member_phone": "+4 (906) 549-3888"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Thelma Rasmussen",
+        "member_info": "",
+        "member_phone": "+57 (832) 515-3078"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 4491245,
+        "bill_date": "2015-06-20T12:51:34 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$20,732.75"
+      },
+      {
+        "bill_id": 33862111,
+        "bill_date": "2016-11-30T08:08:02 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$25,311.14"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dade5cbfd1ad52390",
+    "company_nif": "U33228185",
+    "company_name": "QUILTIGEN",
+    "company_type": "Energy provider",
+    "company_num_employees": 2385,
+    "company_balance": "$828,638.93",
+    "company_cnae": 5701,
+    "company_address": "806 Riverdale Avenue, 6872",
+    "company_phone": "+46 (999) 479-2769",
+    "company_city": "Baker",
+    "company_state": "Colorado",
+    "company_postal_code": 8793,
+    "company_country": "Hong Kong",
+    "company_email": "thelmarasmussen@quiltigen.com",
+    "company_year_of_creation": 1973,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Warren Manning",
+        "member_info": "",
+        "member_phone": "+74 (875) 421-3822"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Lisa Armstrong",
+        "member_info": "",
+        "member_phone": "+70 (919) 522-2971"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Stacie Trevino",
+        "member_info": "",
+        "member_phone": "+82 (862) 426-2951"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Eunice Jackson",
+        "member_info": "",
+        "member_phone": "+38 (972) 406-2355"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 2334971,
+        "bill_date": "2014-08-23T03:35:26 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$37,656.16"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d0c2bafcb23afe392",
+    "company_nif": "I839181467",
+    "company_name": "PROGENEX",
+    "company_type": "Animal breeding",
+    "company_num_employees": 3777,
+    "company_balance": "$787,199.98",
+    "company_cnae": 9674,
+    "company_address": "179 Amboy Street, 237",
+    "company_phone": "+21 (955) 418-3267",
+    "company_city": "Bartonsville",
+    "company_state": "Hawaii",
+    "company_postal_code": 1271,
+    "company_country": "Russian Federation",
+    "company_email": "eunicejackson@progenex.com",
+    "company_year_of_creation": 1931,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Stafford Haney",
+        "member_info": "",
+        "member_phone": "+34 (929) 512-3943"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Haney Hughes",
+        "member_info": "",
+        "member_phone": "+34 (838) 433-3090"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Holloway Gilmore",
+        "member_info": "",
+        "member_phone": "+83 (875) 498-3323"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Vonda Boyd",
+        "member_info": "",
+        "member_phone": "+67 (923) 448-3378"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 25988032,
+        "bill_date": "2016-11-02T06:10:36 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$6,674.60"
+      },
+      {
+        "bill_id": 79676132,
+        "bill_date": "2016-12-30T04:05:26 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$10,553.45"
+      },
+      {
+        "bill_id": 32362335,
+        "bill_date": "2016-10-20T03:12:10 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$49,942.22"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d0321da215fbfd57d",
+    "company_nif": "Y749465705",
+    "company_name": "SUNCLIPSE",
+    "company_type": "Transport and storage",
+    "company_num_employees": 5430,
+    "company_balance": "$743,680.32",
+    "company_cnae": 5406,
+    "company_address": "427 Emerson Place, 5117",
+    "company_phone": "+85 (953) 467-2974",
+    "company_city": "Dubois",
+    "company_state": "New York",
+    "company_postal_code": 8604,
+    "company_country": "Falkland Islands (Malvinas)",
+    "company_email": "vondaboyd@sunclipse.com",
+    "company_year_of_creation": 1962,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Judy Pugh",
+        "member_info": "",
+        "member_phone": "+8 (837) 545-2577"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Laverne Weber",
+        "member_info": "",
+        "member_phone": "+87 (821) 580-2442"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Herminia Frank",
+        "member_info": "",
+        "member_phone": "+80 (958) 575-2233"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Hester Sampson",
+        "member_info": "",
+        "member_phone": "+8 (844) 403-3821"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 1865300,
+        "bill_date": "2016-05-07T12:50:36 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$60,668.83"
+      },
+      {
+        "bill_id": 2085169,
+        "bill_date": "2017-03-31T06:41:27 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$347.33"
+      },
+      {
+        "bill_id": 51549846,
+        "bill_date": "2014-11-13T10:04:33 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$99,912.71"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d83e9aaf760004c1d",
+    "company_nif": "W215860360",
+    "company_name": "FARMAGE",
+    "company_type": "Real state",
+    "company_num_employees": 1474,
+    "company_balance": "$965,165.89",
+    "company_cnae": 6040,
+    "company_address": "750 High Street, 8420",
+    "company_phone": "+86 (874) 505-3283",
+    "company_city": "Washington",
+    "company_state": "New Jersey",
+    "company_postal_code": 4772,
+    "company_country": "Solomon Islands",
+    "company_email": "hestersampson@farmage.com",
+    "company_year_of_creation": 1931,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lakeisha Mcknight",
+        "member_info": "",
+        "member_phone": "+10 (906) 573-3392"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Claire Howell",
+        "member_info": "",
+        "member_phone": "+13 (890) 472-3934"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Mckinney Hampton",
+        "member_info": "",
+        "member_phone": "+21 (864) 445-2123"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Bridgett Boyle",
+        "member_info": "",
+        "member_phone": "+27 (958) 435-3903"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874dbbafb194694423db",
+    "company_nif": "Z282745755",
+    "company_name": "SURETECH",
+    "company_type": "Art and Entertainment",
+    "company_num_employees": 6800,
+    "company_balance": "$988,881.57",
+    "company_cnae": 7456,
+    "company_address": "859 Amersfort Place, 9038",
+    "company_phone": "+30 (935) 503-2312",
+    "company_city": "Orason",
+    "company_state": "District Of Columbia",
+    "company_postal_code": 6563,
+    "company_country": "Tonga",
+    "company_email": "bridgettboyle@suretech.com",
+    "company_year_of_creation": 1990,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Hester Jenkins",
+        "member_info": "",
+        "member_phone": "+88 (909) 526-2103"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Church Farley",
+        "member_info": "",
+        "member_phone": "+44 (926) 481-3357"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Adele Wyatt",
+        "member_info": "",
+        "member_phone": "+15 (908) 547-2926"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Neva Bruce",
+        "member_info": "",
+        "member_phone": "+85 (929) 517-3101"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d55ec9a6e780e368f",
+    "company_nif": "W133858426",
+    "company_name": "BOSTONIC",
+    "company_type": "Information and communication",
+    "company_num_employees": 7714,
+    "company_balance": "$9,811.53",
+    "company_cnae": 2005,
+    "company_address": "805 Court Square, 1013",
+    "company_phone": "+66 (841) 532-2052",
+    "company_city": "Greenock",
+    "company_state": "Mississippi",
+    "company_postal_code": 4088,
+    "company_country": "Burkina Faso",
+    "company_email": "nevabruce@bostonic.com",
+    "company_year_of_creation": 1996,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Bell Turner",
+        "member_info": "",
+        "member_phone": "+40 (998) 580-2576"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Terry David",
+        "member_info": "",
+        "member_phone": "+17 (958) 584-3757"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Gabrielle Mckenzie",
+        "member_info": "",
+        "member_phone": "+25 (941) 506-2080"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Jill Wallace",
+        "member_info": "",
+        "member_phone": "+25 (850) 409-3077"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874d1d5c1bd6f9a8b93d",
+    "company_nif": "G713470684",
+    "company_name": "COMTEST",
+    "company_type": "Fishing",
+    "company_num_employees": 338,
+    "company_balance": "$233,762.30",
+    "company_cnae": 1058,
+    "company_address": "677 Glendale Court, 7026",
+    "company_phone": "+35 (914) 516-2541",
+    "company_city": "Crayne",
+    "company_state": "Missouri",
+    "company_postal_code": 1395,
+    "company_country": "Georgia",
+    "company_email": "jillwallace@comtest.com",
+    "company_year_of_creation": 1941,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Soto Rocha",
+        "member_info": "",
+        "member_phone": "+14 (849) 417-3221"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Lilian Sandoval",
+        "member_info": "",
+        "member_phone": "+45 (934) 409-2394"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Flora Dillon",
+        "member_info": "",
+        "member_phone": "+73 (998) 439-3012"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Pugh Higgins",
+        "member_info": "",
+        "member_phone": "+47 (814) 548-2447"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 31562683,
+        "bill_date": "2016-06-08T11:19:07 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$12,258.18"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d2505f46e7e20602c",
+    "company_nif": "C660937287",
+    "company_name": "ASSURITY",
+    "company_type": "Fishing",
+    "company_num_employees": 651,
+    "company_balance": "$927,205.59",
+    "company_cnae": 9055,
+    "company_address": "927 Polar Street, 9907",
+    "company_phone": "+82 (865) 471-2915",
+    "company_city": "Glenville",
+    "company_state": "Kentucky",
+    "company_postal_code": 6862,
+    "company_country": "Dominica",
+    "company_email": "pughhiggins@assurity.com",
+    "company_year_of_creation": 1980,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Leonor Ryan",
+        "member_info": "",
+        "member_phone": "+26 (963) 510-2023"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Lopez Hammond",
+        "member_info": "",
+        "member_phone": "+35 (999) 534-3151"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Rosalyn Michael",
+        "member_info": "",
+        "member_phone": "+28 (968) 487-3836"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Vicky Merrill",
+        "member_info": "",
+        "member_phone": "+57 (827) 415-2851"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 82618595,
+        "bill_date": "2016-08-26T03:16:43 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$12,545.58"
+      },
+      {
+        "bill_id": 54267625,
+        "bill_date": "2017-03-23T04:08:57 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$22,803.09"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874db0cd96595f2e0f6e",
+    "company_nif": "I435040359",
+    "company_name": "EXTRO",
+    "company_type": "Information and communication",
+    "company_num_employees": 8190,
+    "company_balance": "$284,426.30",
+    "company_cnae": 8430,
+    "company_address": "132 Hubbard Street, 4877",
+    "company_phone": "+13 (912) 506-2434",
+    "company_city": "Cobbtown",
+    "company_state": "Virginia",
+    "company_postal_code": 8434,
+    "company_country": "Cayman Islands",
+    "company_email": "vickymerrill@extro.com",
+    "company_year_of_creation": 1960,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Boyd Kinney",
+        "member_info": "",
+        "member_phone": "+65 (997) 562-2066"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hunter Hess",
+        "member_info": "",
+        "member_phone": "+31 (876) 467-2918"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Alma Woodward",
+        "member_info": "",
+        "member_phone": "+73 (805) 448-3800"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Fitzgerald Durham",
+        "member_info": "",
+        "member_phone": "+87 (815) 550-3981"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 19057898,
+        "bill_date": "2016-09-20T09:32:16 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$53,251.10"
+      },
+      {
+        "bill_id": 31428202,
+        "bill_date": "2015-09-20T01:51:17 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$38,564.37"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d6edc695e70e4bf38",
+    "company_nif": "J21949611",
+    "company_name": "MAXEMIA",
+    "company_type": "Finantial activities",
+    "company_num_employees": 2261,
+    "company_balance": "-$596.46",
+    "company_cnae": 6253,
+    "company_address": "444 Albemarle Terrace, 7628",
+    "company_phone": "+87 (945) 497-3481",
+    "company_city": "Itmann",
+    "company_state": "North Dakota",
+    "company_postal_code": 998,
+    "company_country": "Cape Verde",
+    "company_email": "fitzgeralddurham@maxemia.com",
+    "company_year_of_creation": 1938,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Charity Bright",
+        "member_info": "",
+        "member_phone": "+47 (903) 413-3695"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Dominique Huff",
+        "member_info": "",
+        "member_phone": "+2 (898) 403-2363"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Annie Douglas",
+        "member_info": "",
+        "member_phone": "+48 (873) 580-3019"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Farley Bean",
+        "member_info": "",
+        "member_phone": "+21 (969) 535-2003"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874de1e4cc7a78090d94",
+    "company_nif": "F978886484",
+    "company_name": "WAAB",
+    "company_type": "Public Administration and Defense",
+    "company_num_employees": 5847,
+    "company_balance": "$280,741.83",
+    "company_cnae": 6996,
+    "company_address": "419 Linden Boulevard, 7208",
+    "company_phone": "+33 (960) 504-2455",
+    "company_city": "Guilford",
+    "company_state": "Northern Mariana Islands",
+    "company_postal_code": 7190,
+    "company_country": "Iraq",
+    "company_email": "farleybean@waab.com",
+    "company_year_of_creation": 1974,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Cole King",
+        "member_info": "",
+        "member_phone": "+64 (971) 407-3879"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Aimee Raymond",
+        "member_info": "",
+        "member_phone": "+82 (802) 407-3074"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Kelley Moss",
+        "member_info": "",
+        "member_phone": "+39 (903) 474-3896"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Cross Crosby",
+        "member_info": "",
+        "member_phone": "+26 (902) 520-2136"
+      }
+    ],
+    "company_bill": []
+  },
+  {
+    "_id": "58fb874de167f95044a1094c",
+    "company_nif": "Z243966965",
+    "company_name": "BOLAX",
+    "company_type": "Farming",
+    "company_num_employees": 4520,
+    "company_balance": "$821,970.96",
+    "company_cnae": 3175,
+    "company_address": "480 Karweg Place, 4131",
+    "company_phone": "+3 (981) 587-2429",
+    "company_city": "Conway",
+    "company_state": "Nebraska",
+    "company_postal_code": 7419,
+    "company_country": "Uruguay",
+    "company_email": "crosscrosby@bolax.com",
+    "company_year_of_creation": 1942,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Jannie Burks",
+        "member_info": "",
+        "member_phone": "+74 (868) 448-3507"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Mattie Mcleod",
+        "member_info": "",
+        "member_phone": "+22 (984) 438-2338"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Melton Conley",
+        "member_info": "",
+        "member_phone": "+71 (886) 466-2760"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Callie Dixon",
+        "member_info": "",
+        "member_phone": "+89 (826) 531-3866"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 70381340,
+        "bill_date": "2017-04-12T12:13:51 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$23,441.57"
+      },
+      {
+        "bill_id": 80943177,
+        "bill_date": "2015-09-18T04:52:41 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$24,816.07"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d9522b62114299a51",
+    "company_nif": "D694211942",
+    "company_name": "ORBALIX",
+    "company_type": "Hostelry",
+    "company_num_employees": 8759,
+    "company_balance": "$291,117.88",
+    "company_cnae": 9726,
+    "company_address": "838 Horace Court, 5072",
+    "company_phone": "+19 (949) 451-2098",
+    "company_city": "Stonybrook",
+    "company_state": "Maine",
+    "company_postal_code": 9784,
+    "company_country": "Ethiopia",
+    "company_email": "calliedixon@orbalix.com",
+    "company_year_of_creation": 2012,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Guerrero Brady",
+        "member_info": "",
+        "member_phone": "+78 (969) 494-3329"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Zimmerman Oliver",
+        "member_info": "",
+        "member_phone": "+2 (902) 565-2240"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Elvira Reeves",
+        "member_info": "",
+        "member_phone": "+62 (938) 406-2396"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Macdonald Carter",
+        "member_info": "",
+        "member_phone": "+54 (907) 486-3690"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 85666025,
+        "bill_date": "2016-11-17T08:31:25 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$75,840.05"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d67465010ed9768b0",
+    "company_nif": "X237679761",
+    "company_name": "LUNCHPOD",
+    "company_type": "Finantial activities",
+    "company_num_employees": 3812,
+    "company_balance": "$520,472.89",
+    "company_cnae": 4761,
+    "company_address": "398 Beard Street, 6076",
+    "company_phone": "+58 (997) 555-3215",
+    "company_city": "Broadlands",
+    "company_state": "Virgin Islands",
+    "company_postal_code": 1534,
+    "company_country": "Lesotho",
+    "company_email": "macdonaldcarter@lunchpod.com",
+    "company_year_of_creation": 1953,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Hayes Baldwin",
+        "member_info": "",
+        "member_phone": "+72 (878) 445-3421"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Briana Campos",
+        "member_info": "",
+        "member_phone": "+44 (913) 479-2077"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Rollins Carpenter",
+        "member_info": "",
+        "member_phone": "+70 (973) 426-2205"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Lilia Randall",
+        "member_info": "",
+        "member_phone": "+76 (810) 455-2724"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 88267345,
+        "bill_date": "2014-03-15T09:49:34 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$42,707.90"
+      },
+      {
+        "bill_id": 62312886,
+        "bill_date": "2015-08-01T07:37:27 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$27,340.43"
+      },
+      {
+        "bill_id": 45835174,
+        "bill_date": "2014-06-06T11:06:51 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$76,497.92"
+      },
+      {
+        "bill_id": 31222672,
+        "bill_date": "2014-06-09T02:34:26 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$61,608.52"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d2d4abb57f3eb9bfe",
+    "company_nif": "U838703794",
+    "company_name": "SAVVY",
+    "company_type": "Farming",
+    "company_num_employees": 9186,
+    "company_balance": "$355,353.62",
+    "company_cnae": 1051,
+    "company_address": "274 Campus Place, 1617",
+    "company_phone": "+80 (962) 415-3855",
+    "company_city": "Coaldale",
+    "company_state": "Arkansas",
+    "company_postal_code": 106,
+    "company_country": "Belgium",
+    "company_email": "liliarandall@savvy.com",
+    "company_year_of_creation": 1948,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Payne Juarez",
+        "member_info": "",
+        "member_phone": "+73 (984) 450-3999"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Berger Thornton",
+        "member_info": "",
+        "member_phone": "+62 (861) 519-3370"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Bartlett Pruitt",
+        "member_info": "",
+        "member_phone": "+16 (998) 480-3465"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "John Sears",
+        "member_info": "",
+        "member_phone": "+87 (846) 431-2335"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 36325118,
+        "bill_date": "2016-11-13T11:21:07 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$76,971.42"
+      },
+      {
+        "bill_id": 50328487,
+        "bill_date": "2017-01-17T07:17:08 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$23,636.09"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874da18490e4262271b0",
+    "company_nif": "V805275161",
+    "company_name": "CENTREXIN",
+    "company_type": "Farming",
+    "company_num_employees": 6074,
+    "company_balance": "$527,041.10",
+    "company_cnae": 1070,
+    "company_address": "250 Pitkin Avenue, 8500",
+    "company_phone": "+43 (931) 516-3174",
+    "company_city": "Heil",
+    "company_state": "Georgia",
+    "company_postal_code": 7961,
+    "company_country": "Bosnia and Herzegovina",
+    "company_email": "johnsears@centrexin.com",
+    "company_year_of_creation": 1933,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lara Forbes",
+        "member_info": "",
+        "member_phone": "+39 (905) 491-3959"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Shaffer Alston",
+        "member_info": "",
+        "member_phone": "+90 (841) 468-3001"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Helene Griffith",
+        "member_info": "",
+        "member_phone": "+65 (864) 512-3249"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Laurie Dalton",
+        "member_info": "",
+        "member_phone": "+88 (902) 556-2021"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 14558037,
+        "bill_date": "2016-11-13T08:57:50 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$25,555.70"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874dc2c604293ce88931",
+    "company_nif": "L744876992",
+    "company_name": "TRASOLA",
+    "company_type": "Education",
+    "company_num_employees": 8377,
+    "company_balance": "$241,339.00",
+    "company_cnae": 6719,
+    "company_address": "456 Bokee Court, 4759",
+    "company_phone": "+90 (873) 416-2526",
+    "company_city": "Richmond",
+    "company_state": "Louisiana",
+    "company_postal_code": 4164,
+    "company_country": "Chad",
+    "company_email": "lauriedalton@trasola.com",
+    "company_year_of_creation": 1945,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Ethel Carlson",
+        "member_info": "",
+        "member_phone": "+64 (800) 407-2510"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Winters Jimenez",
+        "member_info": "",
+        "member_phone": "+57 (896) 511-2182"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Good Rice",
+        "member_info": "",
+        "member_phone": "+78 (851) 525-2401"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Dixon Reynolds",
+        "member_info": "",
+        "member_phone": "+46 (845) 492-3603"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 9011040,
+        "bill_date": "2014-01-17T07:41:40 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$78,931.93"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d4d539f3cd85e3881",
+    "company_nif": "S892919718",
+    "company_name": "COMTEXT",
+    "company_type": "Professional services",
+    "company_num_employees": 4865,
+    "company_balance": "$872,281.47",
+    "company_cnae": 8744,
+    "company_address": "817 Crawford Avenue, 8124",
+    "company_phone": "+53 (875) 469-2484",
+    "company_city": "Toftrees",
+    "company_state": "Oregon",
+    "company_postal_code": 7806,
+    "company_country": "Austria",
+    "company_email": "dixonreynolds@comtext.com",
+    "company_year_of_creation": 1996,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Janell Mcclain",
+        "member_info": "",
+        "member_phone": "+62 (832) 501-3149"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Kaufman Sellers",
+        "member_info": "",
+        "member_phone": "+24 (957) 416-2603"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Alba Clark",
+        "member_info": "",
+        "member_phone": "+15 (868) 589-3282"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Key Simpson",
+        "member_info": "",
+        "member_phone": "+13 (989) 424-3232"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 4610304,
+        "bill_date": "2016-08-30T03:16:15 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$24,381.21"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df81bb05b2420ba07",
+    "company_nif": "A972802891",
+    "company_name": "CONFRENZY",
+    "company_type": "Manufacturing industry",
+    "company_num_employees": 1785,
+    "company_balance": "$497,353.10",
+    "company_cnae": 6423,
+    "company_address": "919 Buffalo Avenue, 7867",
+    "company_phone": "+71 (942) 517-3205",
+    "company_city": "Waverly",
+    "company_state": "Massachusetts",
+    "company_postal_code": 1518,
+    "company_country": "Haiti",
+    "company_email": "keysimpson@confrenzy.com",
+    "company_year_of_creation": 1974,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Teresa Cortez",
+        "member_info": "",
+        "member_phone": "+55 (938) 598-2202"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Shelley Gutierrez",
+        "member_info": "",
+        "member_phone": "+6 (809) 583-2542"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Claudia Gonzalez",
+        "member_info": "",
+        "member_phone": "+12 (859) 533-2151"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Harrison Casey",
+        "member_info": "",
+        "member_phone": "+51 (960) 443-2464"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 66915670,
+        "bill_date": "2016-10-22T10:54:07 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$99,206.68"
+      },
+      {
+        "bill_id": 75408630,
+        "bill_date": "2015-01-06T05:07:17 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$50,979.56"
+      },
+      {
+        "bill_id": 29601895,
+        "bill_date": "2015-02-08T11:17:48 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$540.29"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df4aa7cdcfc315073",
+    "company_nif": "K705670841",
+    "company_name": "VERTIDE",
+    "company_type": "Health and Social Services",
+    "company_num_employees": 610,
+    "company_balance": "$289,207.65",
+    "company_cnae": 4003,
+    "company_address": "597 Lorraine Street, 1965",
+    "company_phone": "+65 (932) 597-2806",
+    "company_city": "Walland",
+    "company_state": "Delaware",
+    "company_postal_code": 6305,
+    "company_country": "Burundi",
+    "company_email": "harrisoncasey@vertide.com",
+    "company_year_of_creation": 1962,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Dean Lucas",
+        "member_info": "",
+        "member_phone": "+44 (896) 427-2114"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Bird Jensen",
+        "member_info": "",
+        "member_phone": "+45 (932) 528-2312"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Tamra Hudson",
+        "member_info": "",
+        "member_phone": "+1 (979) 473-3969"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Olivia Freeman",
+        "member_info": "",
+        "member_phone": "+89 (827) 408-3075"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 86686645,
+        "bill_date": "2016-03-12T12:44:47 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$96,570.71"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d5b7db353b35df3dc",
+    "company_nif": "P404116373",
+    "company_name": "SUPREMIA",
+    "company_type": "Water provider",
+    "company_num_employees": 9058,
+    "company_balance": "$489,880.40",
+    "company_cnae": 6247,
+    "company_address": "762 Howard Alley, 1350",
+    "company_phone": "+50 (952) 582-3863",
+    "company_city": "Sultana",
+    "company_state": "Nevada",
+    "company_postal_code": 4054,
+    "company_country": "Pakistan",
+    "company_email": "oliviafreeman@supremia.com",
+    "company_year_of_creation": 1966,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Matthews Perkins",
+        "member_info": "",
+        "member_phone": "+2 (931) 560-3630"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Workman Emerson",
+        "member_info": "",
+        "member_phone": "+30 (947) 551-2196"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Leon Abbott",
+        "member_info": "",
+        "member_phone": "+3 (947) 509-3717"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Gilda Delgado",
+        "member_info": "",
+        "member_phone": "+43 (845) 533-2742"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 8567041,
+        "bill_date": "2016-09-26T09:23:57 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$99,177.18"
+      },
+      {
+        "bill_id": 52260774,
+        "bill_date": "2017-03-15T02:09:42 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$18,904.29"
+      },
+      {
+        "bill_id": 20856574,
+        "bill_date": "2016-09-11T11:02:59 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$19,239.66"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d109b5ed23b04fbd0",
+    "company_nif": "N31503863",
+    "company_name": "PLASMOX",
+    "company_type": "Public Administration and Defense",
+    "company_num_employees": 8298,
+    "company_balance": "$160,341.03",
+    "company_cnae": 8725,
+    "company_address": "873 Berry Street, 1754",
+    "company_phone": "+52 (923) 449-3719",
+    "company_city": "Veguita",
+    "company_state": "Alabama",
+    "company_postal_code": 2468,
+    "company_country": "Vatican City State (Holy See)",
+    "company_email": "gildadelgado@plasmox.com",
+    "company_year_of_creation": 1998,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lynne Lindsay",
+        "member_info": "",
+        "member_phone": "+12 (813) 475-2246"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Autumn Mack",
+        "member_info": "",
+        "member_phone": "+35 (845) 555-3151"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Brady Bray",
+        "member_info": "",
+        "member_phone": "+17 (855) 421-3493"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Gilliam Cash",
+        "member_info": "",
+        "member_phone": "+89 (906) 418-3522"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 85095768,
+        "bill_date": "2016-08-11T03:04:54 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$86,217.05"
+      },
+      {
+        "bill_id": 36046888,
+        "bill_date": "2016-07-31T03:37:29 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$52,187.93"
+      },
+      {
+        "bill_id": 73703960,
+        "bill_date": "2015-11-15T02:06:20 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$11,164.20"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874de7867721520910fa",
+    "company_nif": "V442317672",
+    "company_name": "SYNKGEN",
+    "company_type": "Vehicle provider",
+    "company_num_employees": 3590,
+    "company_balance": "$59,954.12",
+    "company_cnae": 3873,
+    "company_address": "922 College Place, 7738",
+    "company_phone": "+34 (978) 452-2505",
+    "company_city": "Cumminsville",
+    "company_state": "Montana",
+    "company_postal_code": 6842,
+    "company_country": "Ireland",
+    "company_email": "gilliamcash@synkgen.com",
+    "company_year_of_creation": 1935,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Lucy Martinez",
+        "member_info": "",
+        "member_phone": "+19 (810) 589-3984"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Delia Logan",
+        "member_info": "",
+        "member_phone": "+73 (924) 483-3940"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Glover Henderson",
+        "member_info": "",
+        "member_phone": "+75 (910) 518-3252"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Ross Espinoza",
+        "member_info": "",
+        "member_phone": "+53 (916) 450-2948"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 83251345,
+        "bill_date": "2015-06-25T08:36:48 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$74,359.53"
+      },
+      {
+        "bill_id": 76528644,
+        "bill_date": "2016-09-06T12:38:33 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$63,023.05"
+      },
+      {
+        "bill_id": 49322286,
+        "bill_date": "2016-06-11T10:13:41 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$86,602.48"
+      },
+      {
+        "bill_id": 8639067,
+        "bill_date": "2014-02-02T03:09:02 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$56,079.03"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df7a302b6e11a551c",
+    "company_nif": "U569341490",
+    "company_name": "VIDTO",
+    "company_type": "Real state",
+    "company_num_employees": 3593,
+    "company_balance": "$376,678.87",
+    "company_cnae": 4557,
+    "company_address": "503 Irwin Street, 7960",
+    "company_phone": "+12 (951) 425-2958",
+    "company_city": "Floris",
+    "company_state": "Wyoming",
+    "company_postal_code": 7354,
+    "company_country": "Gabon",
+    "company_email": "rossespinoza@vidto.com",
+    "company_year_of_creation": 1967,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Larson Griffin",
+        "member_info": "",
+        "member_phone": "+83 (800) 576-3856"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Robles Sharp",
+        "member_info": "",
+        "member_phone": "+71 (942) 458-3989"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Jarvis Curtis",
+        "member_info": "",
+        "member_phone": "+2 (965) 500-2874"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Elnora Hodge",
+        "member_info": "",
+        "member_phone": "+15 (996) 450-2844"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 89621286,
+        "bill_date": "2014-11-30T10:14:27 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$39,595.24"
+      },
+      {
+        "bill_id": 20555233,
+        "bill_date": "2016-06-23T11:21:26 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$20,193.91"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874d2210a29462250a94",
+    "company_nif": "B889669171",
+    "company_name": "VETRON",
+    "company_type": "Health and Social Services",
+    "company_num_employees": 5163,
+    "company_balance": "$802,997.43",
+    "company_cnae": 1746,
+    "company_address": "869 Girard Street, 8997",
+    "company_phone": "+21 (961) 549-2628",
+    "company_city": "Neahkahnie",
+    "company_state": "Oklahoma",
+    "company_postal_code": 4462,
+    "company_country": "Czech Republic",
+    "company_email": "elnorahodge@vetron.com",
+    "company_year_of_creation": 1944,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Desiree Petersen",
+        "member_info": "",
+        "member_phone": "+54 (872) 419-2507"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hoover Valdez",
+        "member_info": "",
+        "member_phone": "+52 (837) 436-3309"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Johanna Moreno",
+        "member_info": "",
+        "member_phone": "+70 (948) 599-2763"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Barker Berger",
+        "member_info": "",
+        "member_phone": "+47 (856) 496-2689"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 94602642,
+        "bill_date": "2017-04-01T08:56:44 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$11,731.63"
+      },
+      {
+        "bill_id": 4390287,
+        "bill_date": "2017-01-12T01:26:08 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$67,502.25"
+      },
+      {
+        "bill_id": 95120363,
+        "bill_date": "2016-05-25T02:21:23 -02:00",
+        "bill_concept": "Services",
+        "bill_total": "$78,212.20"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874df1d303a5603e48bd",
+    "company_nif": "Z408090146",
+    "company_name": "PHEAST",
+    "company_type": "Building",
+    "company_num_employees": 2475,
+    "company_balance": "$939,702.86",
+    "company_cnae": 7381,
+    "company_address": "495 Mermaid Avenue, 7376",
+    "company_phone": "+18 (989) 442-3996",
+    "company_city": "Ogema",
+    "company_state": "Indiana",
+    "company_postal_code": 6302,
+    "company_country": "Colombia",
+    "company_email": "barkerberger@pheast.com",
+    "company_year_of_creation": 1988,
+    "company_isActive": true,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Flynn Church",
+        "member_info": "",
+        "member_phone": "+11 (902) 439-2030"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Ratliff Valencia",
+        "member_info": "",
+        "member_phone": "+74 (911) 428-3568"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Ingram Suarez",
+        "member_info": "",
+        "member_phone": "+32 (806) 595-3957"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Veronica Peck",
+        "member_info": "",
+        "member_phone": "+86 (859) 439-2093"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 7395427,
+        "bill_date": "2015-12-03T04:40:18 -01:00",
+        "bill_concept": "Services",
+        "bill_total": "$69,879.98"
+      },
+      {
+        "bill_id": 70873294,
+        "bill_date": "2016-07-12T01:32:21 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$73,688.58"
+      },
+      {
+        "bill_id": 88531296,
+        "bill_date": "2017-02-21T09:21:22 -01:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$75,861.10"
+      }
+    ]
+  },
+  {
+    "_id": "58fb874ded16ae90a9b87a5e",
+    "company_nif": "Y432402499",
+    "company_name": "KATAKANA",
+    "company_type": "Information and communication",
+    "company_num_employees": 8539,
+    "company_balance": "$403,068.08",
+    "company_cnae": 5354,
+    "company_address": "116 Stratford Road, 882",
+    "company_phone": "+37 (925) 569-2063",
+    "company_city": "Roberts",
+    "company_state": "Connecticut",
+    "company_postal_code": 9713,
+    "company_country": "Lithuania",
+    "company_email": "veronicapeck@katakana.com",
+    "company_year_of_creation": 1989,
+    "company_isActive": false,
+    "company_picture": "http://placehold.it/32x32",
+    "company_member": [
+      {
+        "member_position": "President",
+        "member_name": "Sawyer Farrell",
+        "member_info": "",
+        "member_phone": "+46 (928) 406-3096"
+      },
+      {
+        "member_position": "VicePresident",
+        "member_name": "Hardy Lane",
+        "member_info": "",
+        "member_phone": "+15 (830) 430-3519"
+      },
+      {
+        "member_position": "Finantial Director",
+        "member_name": "Tucker Carson",
+        "member_info": "",
+        "member_phone": "+6 (952) 555-2446"
+      },
+      {
+        "member_position": "Marketing Director",
+        "member_name": "Patton Mercado",
+        "member_info": "",
+        "member_phone": "+21 (801) 445-2889"
+      }
+    ],
+    "company_bill": [
+      {
+        "bill_id": 62410104,
+        "bill_date": "2016-08-30T08:48:57 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$36,252.30"
+      },
+      {
+        "bill_id": 37230673,
+        "bill_date": "2015-03-24T12:36:17 -01:00",
+        "bill_concept": "Products",
+        "bill_total": "$53,880.14"
+      },
+      {
+        "bill_id": 45155261,
+        "bill_date": "2014-04-30T04:45:38 -02:00",
+        "bill_concept": "Consultancy",
+        "bill_total": "$84,149.70"
+      },
+      {
+        "bill_id": 24759972,
+        "bill_date": "2015-05-05T03:16:35 -02:00",
+        "bill_concept": "Products",
+        "bill_total": "$43,192.39"
+      }
+    ]
   }
 ]

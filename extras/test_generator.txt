@@ -1,5 +1,5 @@
 [
-  '{{repeat(1, 20)}}',
+  '{{repeat(1, 200)}}',
   {
     _id: '{{objectId()}}',
     company_nif: function (tags) {
@@ -10,11 +10,11 @@
     company_name: '{{company().toUpperCase()}}',
     company_type: '{{random("Farming", "Animal breeding", "Fishing", "Extractive industry", "Manufacturing industry", "Energy provider", "Water provider", "Building", "Vehicle provider", "Transport and storage", "Hostelry", "Information and communication", "Finantial activities", "Real state", "Professional services", "Administrative services", "Public Administration and Defense", "Education", "Health and Social Services", "Art and Entertainment","Other services")}}',
     company_num_employees: '{{integer(1, 9999)}}',
-    company_balance: '{{floating(-10000, 1000000, 2, "$0,0.00")}}',  
+    company_balance: '{{floating(-10000, 1000000, 2, "$0,0.00")}}',
     company_cnae: '{{integer(1000, 9999)}}',
     company_address: '{{integer(100, 999)}} {{street()}}, {{integer(100, 10000)}}',
     company_phone: '+{{integer(1, 90)}} {{phone()}}',
-    company_city: '{{city()}}', 
+    company_city: '{{city()}}',
     company_state: '{{state()}}',
     company_postal_code: '{{integer(100, 10000)}}',
     company_country: '{{country()}}',

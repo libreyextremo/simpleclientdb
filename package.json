@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/libreyextremo/simpleclientdb.git"
   },
-  "keywords": ["mongo", "nodejs", "client", "db"],
+  "keywords": [
+    "mongo",
+    "nodejs",
+    "client",
+    "db"
+  ],
   "author": "JMSobrinos",
   "license": "ISC",
   "bugs": {
@@ -18,6 +23,7 @@
   },
   "homepage": "https://github.com/libreyextremo/simpleclientdb#readme",
   "dependencies": {
+    "express": "^4.15.2",
     "mocha": "^3.2.0",
     "mongoose": "^4.9.2"
   }
