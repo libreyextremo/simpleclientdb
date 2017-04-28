@@ -23,8 +23,8 @@ before(function(done){
 beforeEach(function(done){
   // drop collections that will be inserted
   //console.log('before test actions: drop simpleclientdb collection');
-  mongoose.connection.collections.clientmodels.drop(function(){
-  done();
+  mongoose.connection.collections.clients.drop(function(err){
+    done();
   });
 });
 

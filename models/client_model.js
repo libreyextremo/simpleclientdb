@@ -37,7 +37,7 @@ const ClientModelSchema = new Schema({
   company_bill: [BillSchema]
 });
 
-// create model (relation between ClientModelSchema and clientmodel collection)
-const ClientModel = mongoose.model('clientmodel', ClientModelSchema);
+// create model (relation between ClientModelSchema and clients collection)
+const ClientModel = mongoose.model('clients', ClientModelSchema);
 
 module.exports = ClientModel;
