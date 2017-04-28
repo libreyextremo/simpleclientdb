@@ -17,8 +17,8 @@ const BillSchema = new Schema({
 });
 
 const ClientModelSchema = new Schema({
-  company_nif: String,
-  company_name: String,
+  company_nif: {type: String, required: [true, 'NIF field is required'] },
+  company_name: {type: String, required: [true, 'Name field is required'] },
   company_type: String,
   company_num_employees: Number,
   company_balance: Number,
@@ -37,7 +37,7 @@ const ClientModelSchema = new Schema({
   company_bill: [BillSchema]
 });
 
-// set relation between ClientModelSchema and clientmodel
+// create model (relation between ClientModelSchema and clientmodel collection)
 const ClientModel = mongoose.model('clientmodel', ClientModelSchema);
 
 module.exports = ClientModel;
