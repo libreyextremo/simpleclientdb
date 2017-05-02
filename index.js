@@ -18,11 +18,16 @@ mongoose.Promise = global.Promise;
 
 // parse received data as json file
 app.use(bodyParser.json());
-
 // use routes defined in files adding '/api' to the route
 // 1st param: additional route infix (localhost:4000/XXXXX/clients)
 // 2nd param: location of file api.js (/routes/api.js file)
 app.use('/api', require('./routes/api'));
+//error handling middleware
+app.use(function(err, req, res, next){
+  //console.log(err);
+  res.status(422).send({error: err.message});
+});
+
 
 // listen for requests
 app.listen(process.env.port || 4000, function(){
