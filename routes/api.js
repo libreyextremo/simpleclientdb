@@ -37,7 +37,10 @@ router.put('/clients/:id', function(req, res, next){
 // delete a client in the db
 router.delete('/clients/:id', function(req, res, next){
   console.log('DELETE /clients request');
-  res.send({type: 'DELETE'});
+  console.log('params: id = ' + req.params.id);
+  ClientModel.findByIdAndRemove({_id: req.params.id}).then(function(deletedClient){
+    res.send(deletedClient);
+  }).catch(next);
 });
 
 module.exports = router;
