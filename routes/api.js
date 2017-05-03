@@ -31,7 +31,12 @@ router.post('/clients', function(req, res, next){
 // update a client in the db
 router.put('/clients/:id', function(req, res, next){
   console.log('PUT /clients request');
-  res.send({type: 'PUT'});
+  console.log('params: id = ' + req.params.id);
+  ClientModel.findByIdAndUpdate({_id: req.params.id},req.body).then(function(updatedClient){
+    ClientModel.findOne({_id: req.params.id}).then(function(updatedClient){
+      res.send(updatedClient);
+    }).catch(next);
+  }).catch(next);
 });
 
 // delete a client in the db
