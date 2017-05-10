@@ -32,6 +32,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 2015,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [39.9643928,-4.8250243]
+      },
       company_member: [
         {
           member_position: 'President',
@@ -85,6 +89,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 2002,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [39.9639759,-4.8132239]
+      },
       company_member: [
         {
           member_position: 'President',
@@ -120,6 +128,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 2014,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [39.9670215,-4.8143534]
+      },
       company_member: [
         {
           member_position: 'President',
@@ -161,6 +173,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 1996,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [40.0003404,-4.8212585]
+      },
       company_member: [
         {
           member_position: 'President',
@@ -208,6 +224,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 2003,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [39.9639586,-4.8098144]
+      },
       company_member: [
         {
           member_position: 'President',
@@ -271,6 +291,10 @@ describe('Client collection tests', function(){
       company_year_of_creation: 1998,
       company_isActive: true,
       company_picture: '',
+      geometry: {
+        type: 'Point',
+        coordinates: [39.963915,-4.814113]
+      },
       company_member: [
         {
           member_position: 'President',

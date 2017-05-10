@@ -2,6 +2,17 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 // Create Schema and model
+const GeoSchema = new Schema({
+  type: {
+    type: String,
+    default: "Point"
+  },
+  coordinates: {
+    type: [Number],
+    index: "2dsphere"
+  }
+}); // use GeoJson
+
 const MemberSchema = new Schema({
   member_position: { type: String },
   member_name: { type: String },
@@ -33,6 +44,7 @@ const ClientModelSchema = new Schema({
   company_year_of_creation: Number,
   company_isActive: Boolean,
   company_picture: String,
+  geometry: GeoSchema,
   company_member: [MemberSchema],
   company_bill: [BillSchema]
 });
