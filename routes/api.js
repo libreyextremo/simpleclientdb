@@ -11,10 +11,32 @@ router.get('/', function(req, res){
 });
 
 // set reply to "localhost:4000/clients" get request
+// it also may receive two parameters lng y lat:
+// localhost:4000/api/clients?lng=39.9643928&lat=-4.8250243
 // get client list from the db
 router.get('/clients', function(req, res, next){
   console.log('GET /clients request');
-  res.send({type: 'GET'});
+  console.log('lng = ' + req.query.lng);
+  console.log('lat = ' + req.query.lat);
+
+  if ((req.query.lng != null) && (req.query.lat != null)) {
+    console.log('lng != null AND lat != null');
+    ClientModel.geoNear(
+      {type: 'Point', coordinates:[parseFloat(req.query.lng),parseFloat(req.query.lat)]},
+      {maxDistance: 3000, spherical: true} // 3000 meters = 3 km
+    ).then(function(listClients){
+      res.send(listClients);
+    }).catch(next);
+
+  } else {
+
+    console.log('lng == null OR lat == null');
+    ClientModel.find({}).then(function(listClients){
+        res.send(listClients);
+    }).catch(next);
+
+  };
+
 });
 
 // add a new client to the db
