@@ -15,6 +15,9 @@ mongoose.connect('mongodb://localhost/simpleclientdb');
 // use ES6 promises library instead of mongoose promise library
 mongoose.Promise = global.Promise;
 
+// use express.static to make "public" folder use
+// static files services (css, images, html...)
+app.use(express.static('public'));
 
 // parse received data as json file
 app.use(bodyParser.json());
