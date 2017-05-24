@@ -1,5 +1,5 @@
 # simpleclientdb
-This project is a simple database of clients. I use mongodb, nodejs and mongoose.
+This project is a simple database of clients. I use Mongodb, Nodejs and React. Additionally, I use middlewares like express, body-parser and mongoose.
 
 Tools
 -----
@@ -19,4 +19,4 @@ Contact
 -------
 You may contact me, please, send me a Direct Message and I will reply you as soon as possible. Please, be patient if I don't reply you inmediatly.
 
-Thanks for watching this readme file. 
+Thanks for watching this readme file.
