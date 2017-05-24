@@ -3,7 +3,7 @@ This project is a simple database of clients. I use Mongodb, Nodejs and React. A
 
 Tools
 -----
-I are using NodeJS, Atom/IntelliJ IDEA, MongoDB and Mongoose.
+I are using NodeJS, Atom/IntelliJ IDEA, MongoDB, React and middleware (Mongoose, Express and Body-parser).
 
 Training
 --------
